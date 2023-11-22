@@ -558,3 +558,17 @@ WARNING 2023-11-22 19:53:00,084 log 19320 7112 Unauthorized: /api/department_cre
 WARNING 2023-11-22 19:53:00,084 basehttp 19320 7112 "POST /api/department_create/ HTTP/1.1" 401 58
 INFO 2023-11-22 19:53:06,446 basehttp 19320 7112 "POST /api/department_create/ HTTP/1.1" 201 101
 INFO 2023-11-22 20:29:39,179 autoreload 19320 29680 C:\Users\prash\Desktop\django_neww\attendenmanagment\attendenmanagment\settings.py changed, reloading.
+INFO 2023-11-22 23:35:30,514 autoreload 30036 23472 Watching for file changes with StatReloader
+INFO 2023-11-22 23:35:30,708 views 30036 12096 Attendence log view create
+INFO 2023-11-22 23:35:30,708 views 30036 12096 New Course  Create
+INFO 2023-11-22 23:35:30,708 views 30036 12096 New User Create
+INFO 2023-11-22 23:35:30,708 views 30036 12096 New Department Create
+INFO 2023-11-22 23:35:30,708 views 30036 12096 New Student create
+INFO 2023-11-22 23:35:30,708 views 30036 12096 Attendence log list
+INFO 2023-11-22 23:35:30,708 views 30036 12096 Course List 
+INFO 2023-11-22 23:35:30,708 views 30036 12096 User List 
+INFO 2023-11-22 23:35:30,708 views 30036 12096 Department List 
+INFO 2023-11-22 23:35:30,708 views 30036 12096 Student List 
+INFO 2023-11-22 23:35:30,708 views 30036 12096 Attendence log with this is id update 
+INFO 2023-11-22 23:35:30,718 views 30036 12096 Course  with this is id update 
+INFO 2023-11-22 23:35:30,718 views 30036 12096 User  with this is id update 

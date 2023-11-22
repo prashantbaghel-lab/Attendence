@@ -151,33 +151,33 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-# LOGGING ={
-#     'version':1,
-#     'loggers':{
-#         'django':{
-#             'handlers':['file','file2'],
-#             'level':'DEBUG'
-#         }
-#     },
-#     'handlers':{
-#         'file':{
-#             'level':'INFO',
-#             'class': 'logging.FileHandler',
-#             'filename':'debug2.log',
-#             'formatter':'simpleRe',
-#         },
-#         'file2':{
-#             'level':'DEBUG',
-#             'class': 'logging.FileHandler',
-#             'filename':'debug3.log',
-#             'formatter':'simpleRe',
-#         }
-#     },
-#     'formatters':{
-#         'simpleRe': {
-#             'format': '{levelname} {asctime} {module} {process:d} {thread:d} {message}',
-#             'style': '{',
-#         }
+LOGGING ={
+    'version':1,
+    'loggers':{
+        'django':{
+            'handlers':['file','file2'],
+            'level':'DEBUG'
+        }
+    },
+    'handlers':{
+        'file':{
+            'level':'INFO',
+            'class': 'logging.FileHandler',
+            'filename':'debug2.log',
+            'formatter':'simpleRe',
+        },
+        'file2':{
+            'level':'DEBUG',
+            'class': 'logging.FileHandler',
+            'filename':'debug3.log',
+            'formatter':'simpleRe',
+        }
+    },
+    'formatters':{
+        'simpleRe': {
+            'format': '{levelname} {asctime} {module} {process:d} {thread:d} {message}',
+            'style': '{',
+        }
 
-#     }
-# }
+    }
+}
