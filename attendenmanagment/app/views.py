@@ -27,6 +27,7 @@ class Attendence_log_view(generics.CreateAPIView):
         try:
             # Call the create method from CreateAPIView
             response = super().create(request, *args, **kwargs)
+            print(response)
             return response
         except Exception as e:
             return Response(

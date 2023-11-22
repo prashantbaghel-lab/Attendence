@@ -532,3 +532,29 @@ INFO 2023-11-22 19:09:17,039 views 32324 19300 Attendence log with this is id up
 INFO 2023-11-22 19:09:17,039 views 32324 19300 Course  with this is id update 
 INFO 2023-11-22 19:09:17,039 views 32324 19300 User  with this is id update 
 INFO 2023-11-22 19:29:22,117 autoreload 32324 19300 Watching for file changes with StatReloader
+INFO 2023-11-22 19:52:33,077 autoreload 19320 29680 Watching for file changes with StatReloader
+INFO 2023-11-22 19:52:33,166 views 19320 29680 Attendence log view create
+INFO 2023-11-22 19:52:33,166 views 19320 29680 New Course  Create
+INFO 2023-11-22 19:52:33,166 views 19320 29680 New User Create
+INFO 2023-11-22 19:52:33,166 views 19320 29680 New Department Create
+INFO 2023-11-22 19:52:33,166 views 19320 29680 New Student create
+INFO 2023-11-22 19:52:33,166 views 19320 29680 Attendence log list
+INFO 2023-11-22 19:52:33,166 views 19320 29680 Course List 
+INFO 2023-11-22 19:52:33,166 views 19320 29680 User List 
+INFO 2023-11-22 19:52:33,166 views 19320 29680 Department List 
+INFO 2023-11-22 19:52:33,166 views 19320 29680 Student List 
+INFO 2023-11-22 19:52:33,166 views 19320 29680 Attendence log with this is id update 
+INFO 2023-11-22 19:52:33,166 views 19320 29680 Course  with this is id update 
+INFO 2023-11-22 19:52:33,166 views 19320 29680 User  with this is id update 
+WARNING 2023-11-22 19:52:37,124 log 19320 7112 Unauthorized: /api/department_list/
+WARNING 2023-11-22 19:52:37,124 basehttp 19320 7112 "GET /api/department_list/ HTTP/1.1" 401 58
+WARNING 2023-11-22 19:52:40,711 log 19320 7112 Unauthorized: /api/department_list/
+WARNING 2023-11-22 19:52:40,711 basehttp 19320 7112 "GET /api/department_list/ HTTP/1.1" 401 58
+WARNING 2023-11-22 19:52:42,222 log 19320 7112 Unauthorized: /api/department_list/
+WARNING 2023-11-22 19:52:42,222 basehttp 19320 7112 "GET /api/department_list/ HTTP/1.1" 401 58
+WARNING 2023-11-22 19:52:51,016 log 19320 7112 Not Found: /api/department_list/
+WARNING 2023-11-22 19:52:51,016 basehttp 19320 7112 "GET /api/department_list/ HTTP/1.1" 404 30
+WARNING 2023-11-22 19:53:00,084 log 19320 7112 Unauthorized: /api/department_create/
+WARNING 2023-11-22 19:53:00,084 basehttp 19320 7112 "POST /api/department_create/ HTTP/1.1" 401 58
+INFO 2023-11-22 19:53:06,446 basehttp 19320 7112 "POST /api/department_create/ HTTP/1.1" 201 101
+INFO 2023-11-22 20:29:39,179 autoreload 19320 29680 C:\Users\prash\Desktop\django_neww\attendenmanagment\attendenmanagment\settings.py changed, reloading.
