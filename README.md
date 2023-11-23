@@ -3,7 +3,7 @@
 It is an attendance management system. That follows the CRU operation, login functionality using Basic Auth, and logging.
 
 language use-Python
-framework - Django Restframeworkk
+framework - Django Restframework
 To run this project the command which uses:
 
 1) To activate the virtual environment env
