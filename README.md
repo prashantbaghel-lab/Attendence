@@ -16,7 +16,7 @@ To run this project the command which uses:
 
 4)pip manage.py migrate
 
-5) To Run the project server
+5)To Run the project server
    
    a) python manage.py runserver
    
