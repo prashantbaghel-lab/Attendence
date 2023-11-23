@@ -7,6 +7,7 @@ framework - Django Restframeworkk
 To run this project the command which uses:
 
 1) To activate the virtual environment env
+   
     a) path\env\Scripts\activate
    
 2)Pip install requirement.txt
@@ -16,6 +17,7 @@ To run this project the command which uses:
 4)pip manage.py migrate
 
 5) To Run the project server
+   
    a) python manage.py runserver
    
 6)now we can test the endpoint in Postman
