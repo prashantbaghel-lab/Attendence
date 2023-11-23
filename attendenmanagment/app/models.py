@@ -25,7 +25,7 @@ class Courses(models.Model):
     updated_at=models.DateTimeField(auto_now_add=True)
 
     def __int__(self):
-        return self.course_id
+        return self.id
     
 #creation model for Departments 
 class Departments(models.Model):
@@ -35,7 +35,7 @@ class Departments(models.Model):
     submitted_by=models.CharField(max_length=100)
     updated_at=models.DateTimeField(auto_now_add=True)
     def __int__(self):
-        return self.dept_id
+        return self.id
 
 
 # creation model for Users 
@@ -49,7 +49,7 @@ class Users(models.Model):
     submitted_by=models.CharField(max_length=100)
     updated_at=models.DateTimeField(auto_now_add=True)
     def __int__(self):
-        return self.user_id
+        return self.id
 
 # creation model for Student 
 
@@ -61,6 +61,6 @@ class Student(models.Model):
     submitted_by=models.CharField(max_length=100)
     updated_at=models.DateTimeField(auto_now_add=True)
     def __int__(self):
-        return self.student_id
+        return self.id
 
 

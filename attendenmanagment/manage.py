@@ -1,21 +1,31 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
 import os
+
 import sys
 from django.core.management import execute_from_command_line
 import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("django")
-def create_superuser():
-    from django.core.management import call_command
 
-    # Check if the superuser already exists
-    if not call_command("shell", "-c", "from django.contrib.auth.models import User; print(User.objects.filter(is_superuser=True).exists())"):
-        # Run createsuperuser with a specific password
-        os.environ["DJANGO_SUPERUSER_PASSWORD"] = "1234"
-        #print(os.environ["DJANGO_SUPERUSER_PASSWORD"])
-        logger.info("password:",os.environ["DJANGO_SUPERUSER_PASSWORD"])
-        call_command("createsuperuser", interactive=False)
+
+def create_superuser():
+    # Check if a superuser already exists
+    if User.objects.filter(username='admin').exists():
+        print("Superuser already exists. Aborting.")
+        sys.exit(1)
+
+    # Create a superuser
+    command = createsuperuser.Command()
+    options = {
+        'username': 'admin',
+        'email': 'admin@example.com',
+        'password':'123',
+        'interactive': False,
+    }
+    command.handle(**options)
+
+    logging.info(f"Superuser created - Username: {options['username']}, Password: {options['password']}")
 
 
 
@@ -34,6 +44,7 @@ def main():
 
 
 if __name__ == '__main__':
+    #create_superuser()
     main()
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "attendenmanagment.settings")
 

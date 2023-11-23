@@ -1,574 +1,1224 @@
-INFO 2023-11-22 18:25:02,571 autoreload 33164 16628 Watching for file changes with StatReloader
-INFO 2023-11-22 18:25:02,652 views 33164 16628 Attendence log view create
-INFO 2023-11-22 18:25:02,652 views 33164 16628 New Course  Create
-INFO 2023-11-22 18:25:02,652 views 33164 16628 New User Create
-INFO 2023-11-22 18:25:02,652 views 33164 16628 New Department Create
-INFO 2023-11-22 18:25:02,660 views 33164 16628 New Student create
-INFO 2023-11-22 18:25:02,661 views 33164 16628 Attendence log list
-INFO 2023-11-22 18:25:02,661 views 33164 16628 Course List 
-INFO 2023-11-22 18:25:02,661 views 33164 16628 User List 
-INFO 2023-11-22 18:25:02,661 views 33164 16628 Department List 
-INFO 2023-11-22 18:25:02,661 views 33164 16628 Student List 
-INFO 2023-11-22 18:25:02,661 views 33164 16628 Attendence log with this is id update 
-INFO 2023-11-22 18:25:02,664 views 33164 16628 Course  with this is id update 
-INFO 2023-11-22 18:25:02,664 views 33164 16628 User  with this is id update 
-WARNING 2023-11-22 18:25:21,536 log 33164 9212 Bad Request: /api/attendence_log_create/
-WARNING 2023-11-22 18:25:21,536 basehttp 33164 9212 "POST /api/attendence_log_create/ HTTP/1.1" 400 54
-INFO 2023-11-22 18:25:33,962 basehttp 33164 9212 "POST /api/attendence_log_create/ HTTP/1.1" 201 122
-INFO 2023-11-22 18:27:44,778 autoreload 33164 16628 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 18:27:45,333 autoreload 28504 24664 Watching for file changes with StatReloader
-INFO 2023-11-22 18:27:45,430 views 28504 24664 Attendence log view create
-INFO 2023-11-22 18:27:45,430 views 28504 24664 New Course  Create
-INFO 2023-11-22 18:27:45,430 views 28504 24664 New User Create
-INFO 2023-11-22 18:27:45,430 views 28504 24664 New Department Create
-INFO 2023-11-22 18:27:45,430 views 28504 24664 New Student create
-INFO 2023-11-22 18:27:45,430 views 28504 24664 Attendence log list
-INFO 2023-11-22 18:27:45,433 views 28504 24664 Course List 
-INFO 2023-11-22 18:27:45,433 views 28504 24664 User List 
-INFO 2023-11-22 18:27:45,433 views 28504 24664 Department List 
-INFO 2023-11-22 18:27:45,433 views 28504 24664 Student List 
-INFO 2023-11-22 18:27:45,433 views 28504 24664 Attendence log with this is id update 
-INFO 2023-11-22 18:27:45,433 views 28504 24664 Course  with this is id update 
-INFO 2023-11-22 18:27:45,433 views 28504 24664 User  with this is id update 
-INFO 2023-11-22 18:28:35,747 basehttp 28504 21772 "POST /api/attendence_log_create/ HTTP/1.1" 201 123
-INFO 2023-11-22 18:29:37,681 autoreload 28504 24664 C:\Users\prash\Desktop\django_neww\attendenmanagment\manage.py changed, reloading.
-INFO 2023-11-22 18:29:38,196 autoreload 28404 24048 Watching for file changes with StatReloader
-INFO 2023-11-22 18:29:38,283 views 28404 24048 Attendence log view create
-INFO 2023-11-22 18:29:38,283 views 28404 24048 New Course  Create
-INFO 2023-11-22 18:29:38,283 views 28404 24048 New User Create
-INFO 2023-11-22 18:29:38,283 views 28404 24048 New Department Create
-INFO 2023-11-22 18:29:38,283 views 28404 24048 New Student create
-INFO 2023-11-22 18:29:38,283 views 28404 24048 Attendence log list
-INFO 2023-11-22 18:29:38,283 views 28404 24048 Course List 
-INFO 2023-11-22 18:29:38,283 views 28404 24048 User List 
-INFO 2023-11-22 18:29:38,283 views 28404 24048 Department List 
-INFO 2023-11-22 18:29:38,283 views 28404 24048 Student List 
-INFO 2023-11-22 18:29:38,283 views 28404 24048 Attendence log with this is id update 
-INFO 2023-11-22 18:29:38,291 views 28404 24048 Course  with this is id update 
-INFO 2023-11-22 18:29:38,291 views 28404 24048 User  with this is id update 
-INFO 2023-11-22 18:29:42,078 autoreload 28404 24048 C:\Users\prash\Desktop\django_neww\attendenmanagment\manage.py changed, reloading.
-INFO 2023-11-22 18:29:42,588 autoreload 21484 15976 Watching for file changes with StatReloader
-INFO 2023-11-22 18:29:42,684 views 21484 15976 Attendence log view create
-INFO 2023-11-22 18:29:42,686 views 21484 15976 New Course  Create
-INFO 2023-11-22 18:29:42,686 views 21484 15976 New User Create
-INFO 2023-11-22 18:29:42,686 views 21484 15976 New Department Create
-INFO 2023-11-22 18:29:42,686 views 21484 15976 New Student create
-INFO 2023-11-22 18:29:42,686 views 21484 15976 Attendence log list
-INFO 2023-11-22 18:29:42,686 views 21484 15976 Course List 
-INFO 2023-11-22 18:29:42,686 views 21484 15976 User List 
-INFO 2023-11-22 18:29:42,686 views 21484 15976 Department List 
-INFO 2023-11-22 18:29:42,686 views 21484 15976 Student List 
-INFO 2023-11-22 18:29:42,686 views 21484 15976 Attendence log with this is id update 
-INFO 2023-11-22 18:29:42,686 views 21484 15976 Course  with this is id update 
-INFO 2023-11-22 18:29:42,686 views 21484 15976 User  with this is id update 
-WARNING 2023-11-22 18:29:50,831 log 21484 26344 Bad Request: /api/attendence_log_create/
-WARNING 2023-11-22 18:29:50,831 basehttp 21484 26344 "POST /api/attendence_log_create/ HTTP/1.1" 400 54
-INFO 2023-11-22 18:30:08,307 autoreload 21484 15976 C:\Users\prash\Desktop\django_neww\attendenmanagment\manage.py changed, reloading.
-INFO 2023-11-22 18:30:08,772 autoreload 6244 33152 Watching for file changes with StatReloader
-INFO 2023-11-22 18:30:08,866 views 6244 33152 Attendence log view create
-INFO 2023-11-22 18:30:08,866 views 6244 33152 New Course  Create
-INFO 2023-11-22 18:30:08,866 views 6244 33152 New User Create
-INFO 2023-11-22 18:30:08,866 views 6244 33152 New Department Create
-INFO 2023-11-22 18:30:08,866 views 6244 33152 New Student create
-INFO 2023-11-22 18:30:08,866 views 6244 33152 Attendence log list
-INFO 2023-11-22 18:30:08,866 views 6244 33152 Course List 
-INFO 2023-11-22 18:30:08,866 views 6244 33152 User List 
-INFO 2023-11-22 18:30:08,866 views 6244 33152 Department List 
-INFO 2023-11-22 18:30:08,866 views 6244 33152 Student List 
-INFO 2023-11-22 18:30:08,866 views 6244 33152 Attendence log with this is id update 
-INFO 2023-11-22 18:30:08,866 views 6244 33152 Course  with this is id update 
-INFO 2023-11-22 18:30:08,866 views 6244 33152 User  with this is id update 
-INFO 2023-11-22 18:31:12,002 basehttp 6244 2200 "POST /api/attendence_log_create/ HTTP/1.1" 201 123
-INFO 2023-11-22 18:31:59,447 autoreload 6244 33152 C:\Users\prash\Desktop\django_neww\attendenmanagment\manage.py changed, reloading.
-INFO 2023-11-22 18:32:30,327 autoreload 22608 21432 Watching for file changes with StatReloader
-INFO 2023-11-22 18:32:30,413 views 22608 21432 Attendence log view create
-INFO 2023-11-22 18:32:30,413 views 22608 21432 New Course  Create
-INFO 2023-11-22 18:32:30,413 views 22608 21432 New User Create
-INFO 2023-11-22 18:32:30,413 views 22608 21432 New Department Create
-INFO 2023-11-22 18:32:30,413 views 22608 21432 New Student create
-INFO 2023-11-22 18:32:30,413 views 22608 21432 Attendence log list
-INFO 2023-11-22 18:32:30,413 views 22608 21432 Course List 
-INFO 2023-11-22 18:32:30,413 views 22608 21432 User List 
-INFO 2023-11-22 18:32:30,413 views 22608 21432 Department List 
-INFO 2023-11-22 18:32:30,413 views 22608 21432 Student List 
-INFO 2023-11-22 18:32:30,421 views 22608 21432 Attendence log with this is id update 
-INFO 2023-11-22 18:32:30,421 views 22608 21432 Course  with this is id update 
-INFO 2023-11-22 18:32:30,421 views 22608 21432 User  with this is id update 
-INFO 2023-11-22 18:35:06,972 autoreload 22608 21432 C:\Users\prash\Desktop\django_neww\attendenmanagment\manage.py changed, reloading.
-INFO 2023-11-22 18:35:07,472 autoreload 18752 21696 Watching for file changes with StatReloader
-INFO 2023-11-22 18:35:07,558 views 18752 21696 Attendence log view create
-INFO 2023-11-22 18:35:07,558 views 18752 21696 New Course  Create
-INFO 2023-11-22 18:35:07,558 views 18752 21696 New User Create
-INFO 2023-11-22 18:35:07,558 views 18752 21696 New Department Create
-INFO 2023-11-22 18:35:07,558 views 18752 21696 New Student create
-INFO 2023-11-22 18:35:07,558 views 18752 21696 Attendence log list
-INFO 2023-11-22 18:35:07,558 views 18752 21696 Course List 
-INFO 2023-11-22 18:35:07,558 views 18752 21696 User List 
-INFO 2023-11-22 18:35:07,558 views 18752 21696 Department List 
-INFO 2023-11-22 18:35:07,558 views 18752 21696 Student List 
-INFO 2023-11-22 18:35:07,558 views 18752 21696 Attendence log with this is id update 
-INFO 2023-11-22 18:35:07,558 views 18752 21696 Course  with this is id update 
-INFO 2023-11-22 18:35:07,558 views 18752 21696 User  with this is id update 
-INFO 2023-11-22 18:35:20,219 basehttp 18752 13292 "POST /api/attendence_log_create/ HTTP/1.1" 201 123
-INFO 2023-11-22 18:43:49,292 autoreload 18752 21696 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 18:43:49,734 autoreload 24980 15976 Watching for file changes with StatReloader
-INFO 2023-11-22 18:43:49,806 views 24980 15976 Attendence log view create
-INFO 2023-11-22 18:43:49,806 views 24980 15976 New Course  Create
-INFO 2023-11-22 18:43:49,806 views 24980 15976 New User Create
-INFO 2023-11-22 18:43:49,806 views 24980 15976 New Department Create
-INFO 2023-11-22 18:43:49,806 views 24980 15976 New Student create
-INFO 2023-11-22 18:43:49,806 views 24980 15976 Attendence log list
-INFO 2023-11-22 18:43:49,806 views 24980 15976 Course List 
-INFO 2023-11-22 18:43:49,806 views 24980 15976 User List 
-INFO 2023-11-22 18:43:49,806 views 24980 15976 Department List 
-INFO 2023-11-22 18:43:49,806 views 24980 15976 Student List 
-INFO 2023-11-22 18:43:49,806 views 24980 15976 Attendence log with this is id update 
-INFO 2023-11-22 18:43:49,806 views 24980 15976 Course  with this is id update 
-INFO 2023-11-22 18:43:49,806 views 24980 15976 User  with this is id update 
-WARNING 2023-11-22 18:44:03,975 log 24980 22864 Bad Request: /api/attendence_log_create/
-WARNING 2023-11-22 18:44:03,976 basehttp 24980 22864 "POST /api/attendence_log_create/ HTTP/1.1" 400 102
-INFO 2023-11-22 18:44:19,215 basehttp 24980 22864 "POST /api/attendence_log_create/ HTTP/1.1" 201 123
-WARNING 2023-11-22 18:44:22,078 log 24980 22864 Bad Request: /api/attendence_log_create/
-WARNING 2023-11-22 18:44:22,078 basehttp 24980 22864 "POST /api/attendence_log_create/ HTTP/1.1" 400 102
-INFO 2023-11-22 18:46:46,146 autoreload 24980 15976 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 18:46:46,576 autoreload 7784 26120 Watching for file changes with StatReloader
-INFO 2023-11-22 18:46:46,663 views 7784 26120 Attendence log view create
-INFO 2023-11-22 18:46:46,664 views 7784 26120 New Course  Create
-INFO 2023-11-22 18:46:46,668 views 7784 8756 Attendence log view create
-INFO 2023-11-22 18:46:46,668 views 7784 8756 New Course  Create
-INFO 2023-11-22 18:47:42,864 autoreload 7784 26120 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 18:47:43,296 autoreload 20444 6348 Watching for file changes with StatReloader
-INFO 2023-11-22 18:47:43,365 views 20444 6348 Attendence log view create
-INFO 2023-11-22 18:47:43,383 views 20444 14268 Attendence log view create
-INFO 2023-11-22 18:48:19,454 autoreload 20444 6348 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 18:48:19,933 autoreload 32112 22188 Watching for file changes with StatReloader
-INFO 2023-11-22 18:48:20,018 views 32112 22188 Attendence log view create
-INFO 2023-11-22 18:48:20,018 views 32112 22188 New Course  Create
-INFO 2023-11-22 18:48:20,018 views 32112 22188 New User Create
-INFO 2023-11-22 18:48:20,018 views 32112 22188 New Department Create
-INFO 2023-11-22 18:48:20,018 views 32112 22188 New Student create
-INFO 2023-11-22 18:48:20,018 views 32112 22188 Attendence log list
-INFO 2023-11-22 18:48:20,018 views 32112 22188 Course List 
-INFO 2023-11-22 18:48:20,018 views 32112 22188 User List 
-INFO 2023-11-22 18:48:20,018 views 32112 22188 Department List 
-INFO 2023-11-22 18:48:20,032 views 32112 22188 Student List 
-INFO 2023-11-22 18:48:20,032 views 32112 22188 Attendence log with this is id update 
-INFO 2023-11-22 18:48:20,032 views 32112 22188 Course  with this is id update 
-INFO 2023-11-22 18:48:20,033 views 32112 22188 User  with this is id update 
-INFO 2023-11-22 18:48:26,815 basehttp 32112 22612 "POST /api/course_create/ HTTP/1.1" 201 167
-WARNING 2023-11-22 18:48:29,319 log 32112 22612 Bad Request: /api/course_create/
-WARNING 2023-11-22 18:48:29,335 basehttp 32112 22612 "POST /api/course_create/ HTTP/1.1" 400 95
-INFO 2023-11-22 18:48:57,728 autoreload 32112 22188 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 18:48:58,166 autoreload 23216 1764 Watching for file changes with StatReloader
-INFO 2023-11-22 18:48:58,250 views 23216 1764 Attendence log view create
-INFO 2023-11-22 18:48:58,250 views 23216 1764 New Course  Create
-INFO 2023-11-22 18:48:58,250 views 23216 1764 New User Create
-INFO 2023-11-22 18:48:58,252 views 23216 1764 New Department Create
-INFO 2023-11-22 18:48:58,252 views 23216 1764 New Student create
-INFO 2023-11-22 18:48:58,252 views 23216 1764 Attendence log list
-INFO 2023-11-22 18:48:58,253 views 23216 1764 Course List 
-INFO 2023-11-22 18:48:58,253 views 23216 1764 User List 
-INFO 2023-11-22 18:48:58,254 views 23216 1764 Department List 
-INFO 2023-11-22 18:48:58,254 views 23216 1764 Student List 
-INFO 2023-11-22 18:48:58,254 views 23216 1764 Attendence log with this is id update 
-INFO 2023-11-22 18:48:58,254 views 23216 1764 Course  with this is id update 
-INFO 2023-11-22 18:48:58,255 views 23216 1764 User  with this is id update 
-INFO 2023-11-22 18:49:03,003 autoreload 23216 1764 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 18:49:03,434 autoreload 17464 2672 Watching for file changes with StatReloader
-INFO 2023-11-22 18:49:03,508 views 17464 2672 Attendence log view create
-INFO 2023-11-22 18:49:03,508 views 17464 2672 New Course  Create
-INFO 2023-11-22 18:49:03,508 views 17464 2672 New User Create
-INFO 2023-11-22 18:49:03,508 views 17464 2672 New Department Create
-INFO 2023-11-22 18:49:03,508 views 17464 2672 New Student create
-INFO 2023-11-22 18:49:03,508 views 17464 2672 Attendence log list
-INFO 2023-11-22 18:49:03,508 views 17464 2672 Course List 
-INFO 2023-11-22 18:49:03,508 views 17464 2672 User List 
-INFO 2023-11-22 18:49:03,508 views 17464 2672 Department List 
-INFO 2023-11-22 18:49:03,508 views 17464 2672 Student List 
-INFO 2023-11-22 18:49:03,508 views 17464 2672 Attendence log with this is id update 
-INFO 2023-11-22 18:49:03,508 views 17464 2672 Course  with this is id update 
-INFO 2023-11-22 18:49:03,508 views 17464 2672 User  with this is id update 
-INFO 2023-11-22 18:49:09,279 autoreload 17464 2672 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 18:49:09,758 autoreload 15936 3628 Watching for file changes with StatReloader
-INFO 2023-11-22 18:49:09,838 views 15936 3628 Attendence log view create
-INFO 2023-11-22 18:49:09,839 views 15936 3628 New Course  Create
-INFO 2023-11-22 18:49:09,839 views 15936 3628 New User Create
-INFO 2023-11-22 18:49:09,839 views 15936 3628 New Department Create
-INFO 2023-11-22 18:49:09,840 views 15936 3628 New Student create
-INFO 2023-11-22 18:49:09,840 views 15936 3628 Attendence log list
-INFO 2023-11-22 18:49:09,841 views 15936 3628 Course List 
-INFO 2023-11-22 18:49:09,841 views 15936 3628 User List 
-INFO 2023-11-22 18:49:09,841 views 15936 3628 Department List 
-INFO 2023-11-22 18:49:09,842 views 15936 3628 Student List 
-INFO 2023-11-22 18:49:09,842 views 15936 3628 Attendence log with this is id update 
-INFO 2023-11-22 18:49:09,842 views 15936 3628 Course  with this is id update 
-INFO 2023-11-22 18:49:09,842 views 15936 3628 User  with this is id update 
-INFO 2023-11-22 18:51:16,264 autoreload 15936 3628 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 18:51:16,770 autoreload 18984 18968 Watching for file changes with StatReloader
-INFO 2023-11-22 18:51:16,849 views 18984 18968 Attendence log view create
-INFO 2023-11-22 18:51:16,849 views 18984 18968 New Course  Create
-INFO 2023-11-22 18:51:16,849 views 18984 18968 New User Create
-INFO 2023-11-22 18:51:16,849 views 18984 18968 New Department Create
-INFO 2023-11-22 18:51:16,849 views 18984 18968 New Student create
-INFO 2023-11-22 18:51:16,849 views 18984 18968 Attendence log list
-INFO 2023-11-22 18:51:16,849 views 18984 18968 Course List 
-INFO 2023-11-22 18:51:16,849 views 18984 18968 User List 
-INFO 2023-11-22 18:51:16,849 views 18984 18968 Department List 
-INFO 2023-11-22 18:51:16,849 views 18984 18968 Student List 
-INFO 2023-11-22 18:51:16,849 views 18984 18968 Attendence log with this is id update 
-INFO 2023-11-22 18:51:16,864 views 18984 18968 Course  with this is id update 
-INFO 2023-11-22 18:51:16,864 views 18984 18968 User  with this is id update 
-WARNING 2023-11-22 18:51:24,796 log 18984 21548 Unauthorized: /api/attendence_list/
-WARNING 2023-11-22 18:51:24,796 basehttp 18984 21548 "GET /api/attendence_list/ HTTP/1.1" 401 58
-INFO 2023-11-22 18:51:32,672 basehttp 18984 21548 "GET /api/attendence_list/ HTTP/1.1" 200 1604
-WARNING 2023-11-22 18:51:44,375 log 18984 21548 Not Found: /api/attendence_listt/
-WARNING 2023-11-22 18:51:44,375 basehttp 18984 21548 "GET /api/attendence_listt/ HTTP/1.1" 404 5044
-INFO 2023-11-22 18:51:55,032 basehttp 18984 21548 "GET /api/attendence_list/ HTTP/1.1" 200 1604
-INFO 2023-11-22 18:54:57,284 autoreload 18984 18968 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 18:54:57,716 autoreload 10376 30276 Watching for file changes with StatReloader
-INFO 2023-11-22 18:54:57,799 views 10376 30276 Attendence log view create
-INFO 2023-11-22 18:54:57,799 views 10376 30276 New Course  Create
-INFO 2023-11-22 18:54:57,800 views 10376 30276 New User Create
-INFO 2023-11-22 18:54:57,800 views 10376 30276 New Department Create
-INFO 2023-11-22 18:54:57,801 views 10376 30276 New Student create
-INFO 2023-11-22 18:54:57,801 views 10376 30276 Attendence log list
-INFO 2023-11-22 18:54:57,801 views 10376 30276 Course List 
-INFO 2023-11-22 18:54:57,801 views 10376 30276 User List 
-INFO 2023-11-22 18:54:57,802 views 10376 30276 Department List 
-INFO 2023-11-22 18:54:57,802 views 10376 30276 Student List 
-INFO 2023-11-22 18:54:57,802 views 10376 30276 Attendence log with this is id update 
-INFO 2023-11-22 18:54:57,802 views 10376 30276 Course  with this is id update 
-INFO 2023-11-22 18:54:57,803 views 10376 30276 User  with this is id update 
-INFO 2023-11-22 18:55:03,676 autoreload 10376 30276 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 18:55:04,080 autoreload 9224 32420 Watching for file changes with StatReloader
-INFO 2023-11-22 18:55:04,166 views 9224 32420 Attendence log view create
-INFO 2023-11-22 18:55:04,167 views 9224 32420 New Course  Create
-INFO 2023-11-22 18:55:04,168 views 9224 32420 New User Create
-INFO 2023-11-22 18:55:04,168 views 9224 32420 New Department Create
-INFO 2023-11-22 18:55:04,169 views 9224 32420 New Student create
-INFO 2023-11-22 18:55:04,169 views 9224 32420 Attendence log list
-INFO 2023-11-22 18:55:04,169 views 9224 32420 Course List 
-INFO 2023-11-22 18:55:04,170 views 9224 32420 User List 
-INFO 2023-11-22 18:55:04,170 views 9224 32420 Department List 
-INFO 2023-11-22 18:55:04,170 views 9224 32420 Student List 
-INFO 2023-11-22 18:55:04,170 views 9224 32420 Attendence log with this is id update 
-INFO 2023-11-22 18:55:04,171 views 9224 32420 Course  with this is id update 
-INFO 2023-11-22 18:55:04,171 views 9224 32420 User  with this is id update 
-INFO 2023-11-22 18:55:17,280 autoreload 9224 32420 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 18:55:17,716 autoreload 572 24968 Watching for file changes with StatReloader
-INFO 2023-11-22 18:55:17,798 views 572 24968 Attendence log view create
-INFO 2023-11-22 18:55:17,799 views 572 24968 New Course  Create
-INFO 2023-11-22 18:55:17,800 views 572 24968 New User Create
-INFO 2023-11-22 18:55:17,800 views 572 24968 New Department Create
-INFO 2023-11-22 18:55:17,800 views 572 24968 New Student create
-INFO 2023-11-22 18:55:17,801 views 572 24968 Attendence log list
-INFO 2023-11-22 18:55:17,801 views 572 24968 Course List 
-INFO 2023-11-22 18:55:17,801 views 572 24968 User List 
-INFO 2023-11-22 18:55:17,802 views 572 24968 Department List 
-INFO 2023-11-22 18:55:17,802 views 572 24968 Student List 
-INFO 2023-11-22 18:55:17,803 views 572 24968 Attendence log with this is id update 
-INFO 2023-11-22 18:55:17,803 views 572 24968 Course  with this is id update 
-INFO 2023-11-22 18:55:17,803 views 572 24968 User  with this is id update 
-INFO 2023-11-22 18:55:20,460 autoreload 572 24968 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 18:55:20,902 autoreload 25188 17660 Watching for file changes with StatReloader
-INFO 2023-11-22 18:55:20,993 views 25188 17660 Attendence log view create
-INFO 2023-11-22 18:55:20,994 views 25188 17660 New Course  Create
-INFO 2023-11-22 18:55:20,994 views 25188 17660 New User Create
-INFO 2023-11-22 18:55:20,995 views 25188 17660 New Department Create
-INFO 2023-11-22 18:55:20,995 views 25188 17660 New Student create
-INFO 2023-11-22 18:55:20,996 views 25188 17660 Attendence log list
-INFO 2023-11-22 18:55:20,996 views 25188 17660 Course List 
-INFO 2023-11-22 18:55:20,996 views 25188 17660 User List 
-INFO 2023-11-22 18:55:20,996 views 25188 17660 Department List 
-INFO 2023-11-22 18:55:20,997 views 25188 17660 Student List 
-INFO 2023-11-22 18:55:20,997 views 25188 17660 Attendence log with this is id update 
-INFO 2023-11-22 18:55:20,997 views 25188 17660 Course  with this is id update 
-INFO 2023-11-22 18:55:20,998 views 25188 17660 User  with this is id update 
-INFO 2023-11-22 18:55:26,746 autoreload 25188 17660 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 18:55:27,202 autoreload 29068 28052 Watching for file changes with StatReloader
-INFO 2023-11-22 18:55:27,285 views 29068 28052 Attendence log view create
-INFO 2023-11-22 18:55:27,285 views 29068 28052 New Course  Create
-INFO 2023-11-22 18:55:27,285 views 29068 28052 New User Create
-INFO 2023-11-22 18:55:27,285 views 29068 28052 New Department Create
-INFO 2023-11-22 18:55:27,285 views 29068 28052 New Student create
-INFO 2023-11-22 18:55:27,285 views 29068 28052 Attendence log list
-INFO 2023-11-22 18:55:27,285 views 29068 28052 Course List 
-INFO 2023-11-22 18:55:27,285 views 29068 28052 User List 
-INFO 2023-11-22 18:55:27,285 views 29068 28052 Department List 
-INFO 2023-11-22 18:55:27,285 views 29068 28052 Student List 
-INFO 2023-11-22 18:55:27,285 views 29068 28052 Attendence log with this is id update 
-INFO 2023-11-22 18:55:27,285 views 29068 28052 Course  with this is id update 
-INFO 2023-11-22 18:55:27,285 views 29068 28052 User  with this is id update 
-INFO 2023-11-22 18:55:35,194 autoreload 29068 28052 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 18:55:35,652 autoreload 23668 18644 Watching for file changes with StatReloader
-INFO 2023-11-22 18:55:35,745 views 23668 18644 Attendence log view create
-INFO 2023-11-22 18:55:35,746 views 23668 18644 New Course  Create
-INFO 2023-11-22 18:55:35,746 views 23668 18644 New User Create
-INFO 2023-11-22 18:55:35,746 views 23668 18644 New Department Create
-INFO 2023-11-22 18:55:35,747 views 23668 18644 New Student create
-INFO 2023-11-22 18:55:35,748 views 23668 18644 Attendence log list
-INFO 2023-11-22 18:55:35,748 views 23668 18644 Course List 
-INFO 2023-11-22 18:55:35,748 views 23668 18644 User List 
-INFO 2023-11-22 18:55:35,749 views 23668 18644 Department List 
-INFO 2023-11-22 18:55:35,749 views 23668 18644 Student List 
-INFO 2023-11-22 18:55:35,749 views 23668 18644 Attendence log with this is id update 
-INFO 2023-11-22 18:55:35,750 views 23668 18644 Course  with this is id update 
-INFO 2023-11-22 18:55:35,750 views 23668 18644 User  with this is id update 
-INFO 2023-11-22 18:55:42,037 basehttp 23668 27656 "GET /admin/app/departments/ HTTP/1.1" 200 9821
-INFO 2023-11-22 18:55:42,054 basehttp 23668 27656 "GET /static/admin/css/base.css HTTP/1.1" 304 0
-INFO 2023-11-22 18:55:42,058 basehttp 23668 30172 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
-INFO 2023-11-22 18:55:42,063 basehttp 23668 27656 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
-INFO 2023-11-22 18:55:42,063 basehttp 23668 11924 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
-INFO 2023-11-22 18:55:42,063 basehttp 23668 32988 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
-INFO 2023-11-22 18:55:42,063 basehttp 23668 32944 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
-INFO 2023-11-22 18:55:42,067 basehttp 23668 11924 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
-INFO 2023-11-22 18:55:42,067 basehttp 23668 27656 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
-INFO 2023-11-22 18:55:42,068 basehttp 23668 30172 "GET /static/admin/js/core.js HTTP/1.1" 304 0
-INFO 2023-11-22 18:55:42,073 basehttp 23668 32988 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
-INFO 2023-11-22 18:55:42,074 basehttp 23668 32944 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
-INFO 2023-11-22 18:55:42,075 basehttp 23668 27656 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
-INFO 2023-11-22 18:55:42,075 basehttp 23668 11924 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
-INFO 2023-11-22 18:55:42,078 basehttp 23668 26344 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
-INFO 2023-11-22 18:55:42,082 basehttp 23668 26344 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
-INFO 2023-11-22 18:55:42,084 basehttp 23668 27656 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
-INFO 2023-11-22 18:55:42,104 basehttp 23668 27656 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
-INFO 2023-11-22 18:55:42,112 basehttp 23668 27656 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
-INFO 2023-11-22 18:55:42,112 basehttp 23668 26344 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
-INFO 2023-11-22 18:56:08,142 basehttp 23668 19968 "GET /api/department_list/ HTTP/1.1" 200 103
-INFO 2023-11-22 18:56:15,455 basehttp 23668 26344 "GET /admin/app/departments/1/change/ HTTP/1.1" 200 12231
-INFO 2023-11-22 18:56:15,475 basehttp 23668 26344 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
-INFO 2023-11-22 18:56:15,475 basehttp 23668 11924 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
-INFO 2023-11-22 18:56:15,481 basehttp 23668 27656 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
-INFO 2023-11-22 18:56:15,485 basehttp 23668 11924 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
-INFO 2023-11-22 18:56:15,485 basehttp 23668 26344 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
-INFO 2023-11-22 18:56:15,491 basehttp 23668 27656 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
-INFO 2023-11-22 18:56:15,519 basehttp 23668 32944 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
-INFO 2023-11-22 18:56:17,455 basehttp 23668 32944 "GET /admin/app/departments/1/delete/ HTTP/1.1" 200 8637
-INFO 2023-11-22 18:56:17,467 basehttp 23668 32944 "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
-INFO 2023-11-22 18:56:19,565 basehttp 23668 32944 "POST /admin/app/departments/1/delete/ HTTP/1.1" 302 0
-INFO 2023-11-22 18:56:19,584 basehttp 23668 32944 "GET /admin/app/departments/ HTTP/1.1" 200 8823
-INFO 2023-11-22 18:56:19,621 basehttp 23668 32944 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
-INFO 2023-11-22 18:56:19,640 basehttp 23668 32944 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
-WARNING 2023-11-22 18:56:23,892 log 23668 19968 Not Found: /api/department_list/
-WARNING 2023-11-22 18:56:23,908 basehttp 23668 19968 "GET /api/department_list/ HTTP/1.1" 404 30
-INFO 2023-11-22 18:59:56,743 autoreload 23668 18644 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\serializer.py changed, reloading.
-INFO 2023-11-22 18:59:57,191 autoreload 3296 10756 Watching for file changes with StatReloader
-INFO 2023-11-22 18:59:57,281 views 3296 10756 Attendence log view create
-INFO 2023-11-22 18:59:57,282 views 3296 10756 New Course  Create
-INFO 2023-11-22 18:59:57,282 views 3296 10756 New User Create
-INFO 2023-11-22 18:59:57,283 views 3296 10756 New Department Create
-INFO 2023-11-22 18:59:57,283 views 3296 10756 New Student create
-INFO 2023-11-22 18:59:57,284 views 3296 10756 Attendence log list
-INFO 2023-11-22 18:59:57,284 views 3296 10756 Course List 
-INFO 2023-11-22 18:59:57,285 views 3296 10756 User List 
-INFO 2023-11-22 18:59:57,285 views 3296 10756 Department List 
-INFO 2023-11-22 18:59:57,285 views 3296 10756 Student List 
-INFO 2023-11-22 18:59:57,285 views 3296 10756 Attendence log with this is id update 
-INFO 2023-11-22 18:59:57,285 views 3296 10756 Course  with this is id update 
-INFO 2023-11-22 18:59:57,285 views 3296 10756 User  with this is id update 
-INFO 2023-11-22 19:01:29,996 autoreload 3296 10756 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\serializer.py changed, reloading.
-INFO 2023-11-22 19:01:30,420 autoreload 8148 15548 Watching for file changes with StatReloader
-INFO 2023-11-22 19:01:30,505 views 8148 15548 Attendence log view create
-INFO 2023-11-22 19:01:30,505 views 8148 15548 New Course  Create
-INFO 2023-11-22 19:01:30,505 views 8148 15548 New User Create
-INFO 2023-11-22 19:01:30,505 views 8148 15548 New Department Create
-INFO 2023-11-22 19:01:30,505 views 8148 15548 New Student create
-INFO 2023-11-22 19:01:30,505 views 8148 15548 Attendence log list
-INFO 2023-11-22 19:01:30,505 views 8148 15548 Course List 
-INFO 2023-11-22 19:01:30,505 views 8148 15548 User List 
-INFO 2023-11-22 19:01:30,505 views 8148 15548 Department List 
-INFO 2023-11-22 19:01:30,505 views 8148 15548 Student List 
-INFO 2023-11-22 19:01:30,505 views 8148 15548 Attendence log with this is id update 
-INFO 2023-11-22 19:01:30,505 views 8148 15548 Course  with this is id update 
-INFO 2023-11-22 19:01:30,505 views 8148 15548 User  with this is id update 
-INFO 2023-11-22 19:01:43,678 autoreload 8148 15548 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 19:01:44,099 autoreload 31380 15820 Watching for file changes with StatReloader
-INFO 2023-11-22 19:01:44,184 views 31380 15820 Attendence log view create
-INFO 2023-11-22 19:01:44,185 views 31380 15820 New Course  Create
-INFO 2023-11-22 19:01:44,186 views 31380 15820 New User Create
-INFO 2023-11-22 19:01:44,186 views 31380 15820 New Department Create
-INFO 2023-11-22 19:01:44,186 views 31380 15820 New Student create
-INFO 2023-11-22 19:01:44,187 views 31380 15820 Attendence log list
-INFO 2023-11-22 19:01:44,187 views 31380 15820 Course List 
-INFO 2023-11-22 19:01:44,188 views 31380 15820 User List 
-INFO 2023-11-22 19:01:44,188 views 31380 15820 Department List 
-INFO 2023-11-22 19:01:44,188 views 31380 15820 Student List 
-INFO 2023-11-22 19:01:44,189 views 31380 15820 Attendence log with this is id update 
-INFO 2023-11-22 19:01:44,189 views 31380 15820 Course  with this is id update 
-INFO 2023-11-22 19:01:44,189 views 31380 15820 User  with this is id update 
-INFO 2023-11-22 19:02:21,334 autoreload 31380 15820 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 19:02:21,809 autoreload 26264 21940 Watching for file changes with StatReloader
-INFO 2023-11-22 19:02:21,898 views 26264 21940 Attendence log view create
-INFO 2023-11-22 19:02:21,899 views 26264 21940 New Course  Create
-INFO 2023-11-22 19:02:21,899 views 26264 21940 New User Create
-INFO 2023-11-22 19:02:21,900 views 26264 21940 New Department Create
-INFO 2023-11-22 19:02:21,900 views 26264 21940 New Student create
-INFO 2023-11-22 19:02:21,901 views 26264 21940 Attendence log list
-INFO 2023-11-22 19:02:21,901 views 26264 21940 Course List 
-INFO 2023-11-22 19:02:21,902 views 26264 21940 User List 
-INFO 2023-11-22 19:02:21,902 views 26264 21940 Department List 
-INFO 2023-11-22 19:02:21,902 views 26264 21940 Student List 
-INFO 2023-11-22 19:02:21,903 views 26264 21940 Attendence log with this is id update 
-INFO 2023-11-22 19:02:21,903 views 26264 21940 Course  with this is id update 
-INFO 2023-11-22 19:02:21,903 views 26264 21940 User  with this is id update 
-INFO 2023-11-22 19:03:00,189 autoreload 26264 21940 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 19:03:00,641 autoreload 22124 26308 Watching for file changes with StatReloader
-INFO 2023-11-22 19:03:00,724 views 22124 26308 Attendence log view create
-INFO 2023-11-22 19:03:00,725 views 22124 26308 New Course  Create
-INFO 2023-11-22 19:03:00,725 views 22124 26308 New User Create
-INFO 2023-11-22 19:03:00,725 views 22124 26308 New Department Create
-INFO 2023-11-22 19:03:00,725 views 22124 26308 New Student create
-INFO 2023-11-22 19:03:00,726 views 22124 26308 Attendence log list
-INFO 2023-11-22 19:03:00,726 views 22124 26308 Course List 
-INFO 2023-11-22 19:03:00,727 views 22124 26308 User List 
-INFO 2023-11-22 19:03:00,727 views 22124 26308 Department List 
-INFO 2023-11-22 19:03:00,727 views 22124 26308 Student List 
-INFO 2023-11-22 19:03:00,727 views 22124 26308 Attendence log with this is id update 
-INFO 2023-11-22 19:03:00,727 views 22124 26308 Course  with this is id update 
-INFO 2023-11-22 19:03:00,727 views 22124 26308 User  with this is id update 
-INFO 2023-11-22 19:03:40,083 autoreload 22124 26308 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 19:03:40,565 autoreload 16736 1496 Watching for file changes with StatReloader
-INFO 2023-11-22 19:03:40,645 views 16736 1496 Attendence log view create
-INFO 2023-11-22 19:03:40,646 views 16736 1496 New Course  Create
-INFO 2023-11-22 19:03:40,646 views 16736 1496 New User Create
-INFO 2023-11-22 19:03:40,646 views 16736 1496 New Department Create
-INFO 2023-11-22 19:03:40,647 views 16736 1496 New Student create
-INFO 2023-11-22 19:03:40,647 views 16736 1496 Attendence log list
-INFO 2023-11-22 19:03:40,647 views 16736 1496 Course List 
-INFO 2023-11-22 19:03:40,648 views 16736 1496 User List 
-INFO 2023-11-22 19:03:40,648 views 16736 1496 Department List 
-INFO 2023-11-22 19:03:40,648 views 16736 1496 Student List 
-INFO 2023-11-22 19:03:40,648 views 16736 1496 Attendence log with this is id update 
-INFO 2023-11-22 19:03:40,649 views 16736 1496 Course  with this is id update 
-INFO 2023-11-22 19:03:40,649 views 16736 1496 User  with this is id update 
-INFO 2023-11-22 19:04:02,154 autoreload 16736 1496 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 19:04:02,629 autoreload 20048 28788 Watching for file changes with StatReloader
-INFO 2023-11-22 19:04:02,710 views 20048 28788 Attendence log view create
-INFO 2023-11-22 19:04:02,710 views 20048 28788 New Course  Create
-INFO 2023-11-22 19:04:02,710 views 20048 28788 New User Create
-INFO 2023-11-22 19:04:02,710 views 20048 28788 New Department Create
-INFO 2023-11-22 19:04:02,710 views 20048 28788 New Student create
-INFO 2023-11-22 19:04:02,710 views 20048 28788 Attendence log list
-INFO 2023-11-22 19:04:02,710 views 20048 28788 Course List 
-INFO 2023-11-22 19:04:02,710 views 20048 28788 User List 
-INFO 2023-11-22 19:04:02,710 views 20048 28788 Department List 
-INFO 2023-11-22 19:04:02,710 views 20048 28788 Student List 
-INFO 2023-11-22 19:04:02,710 views 20048 28788 Attendence log with this is id update 
-INFO 2023-11-22 19:04:02,710 views 20048 28788 Course  with this is id update 
-INFO 2023-11-22 19:04:02,710 views 20048 28788 User  with this is id update 
-INFO 2023-11-22 19:04:59,910 autoreload 20048 28788 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 19:05:00,332 autoreload 25556 496 Watching for file changes with StatReloader
-INFO 2023-11-22 19:05:00,416 views 25556 496 Attendence log view create
-INFO 2023-11-22 19:05:00,417 views 25556 496 New Course  Create
-INFO 2023-11-22 19:05:00,417 views 25556 496 New User Create
-INFO 2023-11-22 19:05:00,418 views 25556 496 New Department Create
-INFO 2023-11-22 19:05:00,418 views 25556 496 New Student create
-INFO 2023-11-22 19:05:00,419 views 25556 496 Attendence log list
-INFO 2023-11-22 19:05:00,419 views 25556 496 Course List 
-INFO 2023-11-22 19:05:00,419 views 25556 496 User List 
-INFO 2023-11-22 19:05:00,419 views 25556 496 Department List 
-INFO 2023-11-22 19:05:00,419 views 25556 496 Student List 
-INFO 2023-11-22 19:05:00,420 views 25556 496 Attendence log with this is id update 
-INFO 2023-11-22 19:05:00,420 views 25556 496 Course  with this is id update 
-INFO 2023-11-22 19:05:00,420 views 25556 496 User  with this is id update 
-INFO 2023-11-22 19:05:21,927 autoreload 25556 496 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 19:05:22,384 autoreload 12096 17036 Watching for file changes with StatReloader
-INFO 2023-11-22 19:05:22,469 views 12096 17036 Attendence log view create
-INFO 2023-11-22 19:05:22,469 views 12096 17036 New Course  Create
-INFO 2023-11-22 19:05:22,469 views 12096 17036 New User Create
-INFO 2023-11-22 19:05:22,469 views 12096 17036 New Department Create
-INFO 2023-11-22 19:05:22,469 views 12096 17036 New Student create
-INFO 2023-11-22 19:05:22,469 views 12096 17036 Attendence log list
-INFO 2023-11-22 19:05:22,479 views 12096 17036 Course List 
-INFO 2023-11-22 19:05:22,479 views 12096 17036 User List 
-INFO 2023-11-22 19:05:22,479 views 12096 17036 Department List 
-INFO 2023-11-22 19:05:22,480 views 12096 17036 Student List 
-INFO 2023-11-22 19:05:22,480 views 12096 17036 Attendence log with this is id update 
-INFO 2023-11-22 19:05:22,480 views 12096 17036 Course  with this is id update 
-INFO 2023-11-22 19:05:22,481 views 12096 17036 User  with this is id update 
-INFO 2023-11-22 19:05:40,810 autoreload 12096 17036 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 19:05:41,273 autoreload 308 28268 Watching for file changes with StatReloader
-INFO 2023-11-22 19:05:41,346 views 308 28268 Attendence log view create
-INFO 2023-11-22 19:05:41,346 views 308 28268 New Course  Create
-INFO 2023-11-22 19:05:41,346 views 308 28268 New User Create
-INFO 2023-11-22 19:05:41,346 views 308 28268 New Department Create
-INFO 2023-11-22 19:05:41,346 views 308 28268 New Student create
-INFO 2023-11-22 19:05:41,346 views 308 28268 Attendence log list
-INFO 2023-11-22 19:05:41,346 views 308 28268 Course List 
-INFO 2023-11-22 19:05:41,346 views 308 28268 User List 
-INFO 2023-11-22 19:05:41,346 views 308 28268 Department List 
-INFO 2023-11-22 19:05:41,346 views 308 28268 Student List 
-INFO 2023-11-22 19:05:41,346 views 308 28268 Attendence log with this is id update 
-INFO 2023-11-22 19:05:41,346 views 308 28268 Course  with this is id update 
-INFO 2023-11-22 19:05:41,346 views 308 28268 User  with this is id update 
-INFO 2023-11-22 19:06:56,295 autoreload 308 28268 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 19:06:56,699 autoreload 556 17748 Watching for file changes with StatReloader
-INFO 2023-11-22 19:06:56,790 views 556 17748 Attendence log view create
-INFO 2023-11-22 19:06:56,791 views 556 17748 New Course  Create
-INFO 2023-11-22 19:06:56,792 views 556 17748 New User Create
-INFO 2023-11-22 19:06:56,792 views 556 17748 New Department Create
-INFO 2023-11-22 19:06:56,792 views 556 17748 New Student create
-INFO 2023-11-22 19:06:56,793 views 556 17748 Attendence log list
-INFO 2023-11-22 19:06:56,793 views 556 17748 Course List 
-INFO 2023-11-22 19:06:56,794 views 556 17748 User List 
-INFO 2023-11-22 19:06:56,794 views 556 17748 Department List 
-INFO 2023-11-22 19:06:56,794 views 556 17748 Student List 
-INFO 2023-11-22 19:06:56,794 views 556 17748 Attendence log with this is id update 
-INFO 2023-11-22 19:06:56,794 views 556 17748 Course  with this is id update 
-INFO 2023-11-22 19:06:56,795 views 556 17748 User  with this is id update 
-INFO 2023-11-22 19:09:16,538 autoreload 556 17748 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
-INFO 2023-11-22 19:09:16,958 autoreload 32324 19300 Watching for file changes with StatReloader
-INFO 2023-11-22 19:09:17,039 views 32324 19300 Attendence log view create
-INFO 2023-11-22 19:09:17,039 views 32324 19300 New Course  Create
-INFO 2023-11-22 19:09:17,039 views 32324 19300 New User Create
-INFO 2023-11-22 19:09:17,039 views 32324 19300 New Department Create
-INFO 2023-11-22 19:09:17,039 views 32324 19300 New Student create
-INFO 2023-11-22 19:09:17,039 views 32324 19300 Attendence log list
-INFO 2023-11-22 19:09:17,039 views 32324 19300 Course List 
-INFO 2023-11-22 19:09:17,039 views 32324 19300 User List 
-INFO 2023-11-22 19:09:17,039 views 32324 19300 Department List 
-INFO 2023-11-22 19:09:17,039 views 32324 19300 Student List 
-INFO 2023-11-22 19:09:17,039 views 32324 19300 Attendence log with this is id update 
-INFO 2023-11-22 19:09:17,039 views 32324 19300 Course  with this is id update 
-INFO 2023-11-22 19:09:17,039 views 32324 19300 User  with this is id update 
-INFO 2023-11-22 19:29:22,117 autoreload 32324 19300 Watching for file changes with StatReloader
-INFO 2023-11-22 19:52:33,077 autoreload 19320 29680 Watching for file changes with StatReloader
-INFO 2023-11-22 19:52:33,166 views 19320 29680 Attendence log view create
-INFO 2023-11-22 19:52:33,166 views 19320 29680 New Course  Create
-INFO 2023-11-22 19:52:33,166 views 19320 29680 New User Create
-INFO 2023-11-22 19:52:33,166 views 19320 29680 New Department Create
-INFO 2023-11-22 19:52:33,166 views 19320 29680 New Student create
-INFO 2023-11-22 19:52:33,166 views 19320 29680 Attendence log list
-INFO 2023-11-22 19:52:33,166 views 19320 29680 Course List 
-INFO 2023-11-22 19:52:33,166 views 19320 29680 User List 
-INFO 2023-11-22 19:52:33,166 views 19320 29680 Department List 
-INFO 2023-11-22 19:52:33,166 views 19320 29680 Student List 
-INFO 2023-11-22 19:52:33,166 views 19320 29680 Attendence log with this is id update 
-INFO 2023-11-22 19:52:33,166 views 19320 29680 Course  with this is id update 
-INFO 2023-11-22 19:52:33,166 views 19320 29680 User  with this is id update 
-WARNING 2023-11-22 19:52:37,124 log 19320 7112 Unauthorized: /api/department_list/
-WARNING 2023-11-22 19:52:37,124 basehttp 19320 7112 "GET /api/department_list/ HTTP/1.1" 401 58
-WARNING 2023-11-22 19:52:40,711 log 19320 7112 Unauthorized: /api/department_list/
-WARNING 2023-11-22 19:52:40,711 basehttp 19320 7112 "GET /api/department_list/ HTTP/1.1" 401 58
-WARNING 2023-11-22 19:52:42,222 log 19320 7112 Unauthorized: /api/department_list/
-WARNING 2023-11-22 19:52:42,222 basehttp 19320 7112 "GET /api/department_list/ HTTP/1.1" 401 58
-WARNING 2023-11-22 19:52:51,016 log 19320 7112 Not Found: /api/department_list/
-WARNING 2023-11-22 19:52:51,016 basehttp 19320 7112 "GET /api/department_list/ HTTP/1.1" 404 30
-WARNING 2023-11-22 19:53:00,084 log 19320 7112 Unauthorized: /api/department_create/
-WARNING 2023-11-22 19:53:00,084 basehttp 19320 7112 "POST /api/department_create/ HTTP/1.1" 401 58
-INFO 2023-11-22 19:53:06,446 basehttp 19320 7112 "POST /api/department_create/ HTTP/1.1" 201 101
-INFO 2023-11-22 20:29:39,179 autoreload 19320 29680 C:\Users\prash\Desktop\django_neww\attendenmanagment\attendenmanagment\settings.py changed, reloading.
-INFO 2023-11-22 23:35:30,514 autoreload 30036 23472 Watching for file changes with StatReloader
-INFO 2023-11-22 23:35:30,708 views 30036 12096 Attendence log view create
-INFO 2023-11-22 23:35:30,708 views 30036 12096 New Course  Create
-INFO 2023-11-22 23:35:30,708 views 30036 12096 New User Create
-INFO 2023-11-22 23:35:30,708 views 30036 12096 New Department Create
-INFO 2023-11-22 23:35:30,708 views 30036 12096 New Student create
-INFO 2023-11-22 23:35:30,708 views 30036 12096 Attendence log list
-INFO 2023-11-22 23:35:30,708 views 30036 12096 Course List 
-INFO 2023-11-22 23:35:30,708 views 30036 12096 User List 
-INFO 2023-11-22 23:35:30,708 views 30036 12096 Department List 
-INFO 2023-11-22 23:35:30,708 views 30036 12096 Student List 
-INFO 2023-11-22 23:35:30,708 views 30036 12096 Attendence log with this is id update 
-INFO 2023-11-22 23:35:30,718 views 30036 12096 Course  with this is id update 
-INFO 2023-11-22 23:35:30,718 views 30036 12096 User  with this is id update 
+INFO 2023-11-23 15:38:55,833 views 23648 37852 Attendence log view create
+INFO 2023-11-23 15:38:55,833 views 23648 37852 New Course  Create
+INFO 2023-11-23 15:38:55,833 views 23648 37852 New User Create
+INFO 2023-11-23 15:38:55,841 views 23648 37852 New Department Create
+INFO 2023-11-23 15:38:55,842 views 23648 37852 New Student create
+INFO 2023-11-23 15:38:55,842 views 23648 37852 Attendence log list
+INFO 2023-11-23 15:38:55,842 views 23648 37852 Course List 
+INFO 2023-11-23 15:38:55,842 views 23648 37852 User List 
+INFO 2023-11-23 15:38:55,842 views 23648 37852 Department List 
+INFO 2023-11-23 15:38:55,842 views 23648 37852 Student List 
+INFO 2023-11-23 15:38:55,842 views 23648 37852 Attendence log with this is id update 
+INFO 2023-11-23 15:38:55,842 views 23648 37852 Course  with this is id update 
+INFO 2023-11-23 15:38:55,842 views 23648 37852 User  with this is id update 
+INFO 2023-11-23 15:39:02,061 views 17424 34904 Attendence log view create
+INFO 2023-11-23 15:39:02,077 views 17424 34904 New Course  Create
+INFO 2023-11-23 15:39:02,077 views 17424 34904 New User Create
+INFO 2023-11-23 15:39:02,079 views 17424 34904 New Department Create
+INFO 2023-11-23 15:39:02,079 views 17424 34904 New Student create
+INFO 2023-11-23 15:39:02,080 views 17424 34904 Attendence log list
+INFO 2023-11-23 15:39:02,080 views 17424 34904 Course List 
+INFO 2023-11-23 15:39:02,080 views 17424 34904 User List 
+INFO 2023-11-23 15:39:02,080 views 17424 34904 Department List 
+INFO 2023-11-23 15:39:02,080 views 17424 34904 Student List 
+INFO 2023-11-23 15:39:02,083 views 17424 34904 Attendence log with this is id update 
+INFO 2023-11-23 15:39:02,083 views 17424 34904 Course  with this is id update 
+INFO 2023-11-23 15:39:02,083 views 17424 34904 User  with this is id update 
+INFO 2023-11-23 15:39:03,213 signals 17424 34904 Admin Created  with  password: 123
+INFO 2023-11-23 15:39:08,491 autoreload 38020 33944 Watching for file changes with StatReloader
+INFO 2023-11-23 15:39:08,604 views 38020 33944 Attendence log view create
+INFO 2023-11-23 15:39:08,605 views 38020 33944 New Course  Create
+INFO 2023-11-23 15:39:08,605 views 38020 33944 New User Create
+INFO 2023-11-23 15:39:08,605 views 38020 33944 New Department Create
+INFO 2023-11-23 15:39:08,605 views 38020 33944 New Student create
+INFO 2023-11-23 15:39:08,605 views 38020 33944 Attendence log list
+INFO 2023-11-23 15:39:08,607 views 38020 33944 Course List 
+INFO 2023-11-23 15:39:08,608 views 38020 33944 User List 
+INFO 2023-11-23 15:39:08,608 views 38020 33944 Department List 
+INFO 2023-11-23 15:39:08,608 views 38020 33944 Student List 
+INFO 2023-11-23 15:39:08,608 views 38020 33944 Attendence log with this is id update 
+INFO 2023-11-23 15:39:08,611 views 38020 33944 Course  with this is id update 
+INFO 2023-11-23 15:39:08,611 views 38020 33944 User  with this is id update 
+INFO 2023-11-23 15:39:14,849 basehttp 38020 27604 "POST /api/attendence_log_create/ HTTP/1.1" 201 122
+INFO 2023-11-23 15:39:21,610 basehttp 38020 27604 "POST /api/course_create/ HTTP/1.1" 201 167
+INFO 2023-11-23 15:39:28,640 basehttp 38020 27604 "POST /api/department_create/ HTTP/1.1" 201 101
+INFO 2023-11-23 15:39:36,379 signals 6568 8624 Admin Created  with  password: 123
+INFO 2023-11-23 15:39:36,422 views 6568 8624 Attendence log view create
+INFO 2023-11-23 15:39:36,422 views 6568 8624 New Course  Create
+INFO 2023-11-23 15:39:36,422 views 6568 8624 New User Create
+INFO 2023-11-23 15:39:36,422 views 6568 8624 New Department Create
+INFO 2023-11-23 15:39:36,422 views 6568 8624 New Student create
+INFO 2023-11-23 15:39:36,422 views 6568 8624 Attendence log list
+INFO 2023-11-23 15:39:36,437 views 6568 8624 Course List 
+INFO 2023-11-23 15:39:36,437 views 6568 8624 User List 
+INFO 2023-11-23 15:39:36,437 views 6568 8624 Department List 
+INFO 2023-11-23 15:39:36,437 views 6568 8624 Student List 
+INFO 2023-11-23 15:39:36,437 views 6568 8624 Attendence log with this is id update 
+INFO 2023-11-23 15:39:36,437 views 6568 8624 Course  with this is id update 
+INFO 2023-11-23 15:39:36,440 views 6568 8624 User  with this is id update 
+INFO 2023-11-23 15:40:57,477 signals 4440 2528 Admin Created  with  password: 123
+INFO 2023-11-23 15:40:57,509 views 4440 2528 Attendence log view create
+INFO 2023-11-23 15:40:57,509 views 4440 2528 New Course  Create
+INFO 2023-11-23 15:40:57,517 views 4440 2528 New User Create
+INFO 2023-11-23 15:40:57,518 views 4440 2528 New Department Create
+INFO 2023-11-23 15:40:57,518 views 4440 2528 New Student create
+INFO 2023-11-23 15:40:57,518 views 4440 2528 Attendence log list
+INFO 2023-11-23 15:40:57,518 views 4440 2528 Course List 
+INFO 2023-11-23 15:40:57,520 views 4440 2528 User List 
+INFO 2023-11-23 15:40:57,520 views 4440 2528 Department List 
+INFO 2023-11-23 15:40:57,520 views 4440 2528 Student List 
+INFO 2023-11-23 15:40:57,520 views 4440 2528 Attendence log with this is id update 
+INFO 2023-11-23 15:40:57,520 views 4440 2528 Course  with this is id update 
+INFO 2023-11-23 15:40:57,520 views 4440 2528 User  with this is id update 
+INFO 2023-11-23 15:41:29,348 signals 11784 33908 Admin Created  with  password: 123
+INFO 2023-11-23 15:41:29,380 views 11784 33908 Attendence log view create
+INFO 2023-11-23 15:41:29,380 views 11784 33908 New Course  Create
+INFO 2023-11-23 15:41:29,380 views 11784 33908 New User Create
+INFO 2023-11-23 15:41:29,380 views 11784 33908 New Department Create
+INFO 2023-11-23 15:41:29,380 views 11784 33908 New Student create
+INFO 2023-11-23 15:41:29,380 views 11784 33908 Attendence log list
+INFO 2023-11-23 15:41:29,380 views 11784 33908 Course List 
+INFO 2023-11-23 15:41:29,380 views 11784 33908 User List 
+INFO 2023-11-23 15:41:29,388 views 11784 33908 Department List 
+INFO 2023-11-23 15:41:29,390 views 11784 33908 Student List 
+INFO 2023-11-23 15:41:29,390 views 11784 33908 Attendence log with this is id update 
+INFO 2023-11-23 15:41:29,390 views 11784 33908 Course  with this is id update 
+INFO 2023-11-23 15:41:29,390 views 11784 33908 User  with this is id update 
+INFO 2023-11-23 15:41:30,771 signals 11784 33908 Admin Created  with  password: 123
+INFO 2023-11-23 15:42:55,462 signals 27392 37588 Admin Created  with  password: 123
+INFO 2023-11-23 15:42:55,500 views 27392 37588 Attendence log view create
+INFO 2023-11-23 15:42:55,500 views 27392 37588 New Course  Create
+INFO 2023-11-23 15:42:55,500 views 27392 37588 New User Create
+INFO 2023-11-23 15:42:55,508 views 27392 37588 New Department Create
+INFO 2023-11-23 15:42:55,508 views 27392 37588 New Student create
+INFO 2023-11-23 15:42:55,508 views 27392 37588 Attendence log list
+INFO 2023-11-23 15:42:55,508 views 27392 37588 Course List 
+INFO 2023-11-23 15:42:55,508 views 27392 37588 User List 
+INFO 2023-11-23 15:42:55,508 views 27392 37588 Department List 
+INFO 2023-11-23 15:42:55,508 views 27392 37588 Student List 
+INFO 2023-11-23 15:42:55,508 views 27392 37588 Attendence log with this is id update 
+INFO 2023-11-23 15:42:55,508 views 27392 37588 Course  with this is id update 
+INFO 2023-11-23 15:42:55,508 views 27392 37588 User  with this is id update 
+INFO 2023-11-23 15:43:21,958 signals 10804 26028 Admin Created  with  password: 123
+INFO 2023-11-23 15:43:21,991 views 10804 26028 Attendence log view create
+INFO 2023-11-23 15:43:21,991 views 10804 26028 New Course  Create
+INFO 2023-11-23 15:43:21,991 views 10804 26028 New User Create
+INFO 2023-11-23 15:43:21,991 views 10804 26028 New Department Create
+INFO 2023-11-23 15:43:21,991 views 10804 26028 New Student create
+INFO 2023-11-23 15:43:21,991 views 10804 26028 Attendence log list
+INFO 2023-11-23 15:43:21,991 views 10804 26028 Course List 
+INFO 2023-11-23 15:43:21,991 views 10804 26028 User List 
+INFO 2023-11-23 15:43:21,991 views 10804 26028 Department List 
+INFO 2023-11-23 15:43:21,991 views 10804 26028 Student List 
+INFO 2023-11-23 15:43:21,991 views 10804 26028 Attendence log with this is id update 
+INFO 2023-11-23 15:43:21,991 views 10804 26028 Course  with this is id update 
+INFO 2023-11-23 15:43:21,991 views 10804 26028 User  with this is id update 
+INFO 2023-11-23 16:09:40,332 signals 27276 36160 Admin Created  with  password: 123
+INFO 2023-11-23 16:09:40,380 views 27276 36160 Attendence log view create
+INFO 2023-11-23 16:09:40,380 views 27276 36160 New Course  Create
+INFO 2023-11-23 16:09:40,380 views 27276 36160 New User Create
+INFO 2023-11-23 16:09:40,380 views 27276 36160 New Department Create
+INFO 2023-11-23 16:09:40,380 views 27276 36160 New Student create
+INFO 2023-11-23 16:09:40,385 views 27276 36160 Attendence log list
+INFO 2023-11-23 16:09:40,385 views 27276 36160 Course List 
+INFO 2023-11-23 16:09:40,385 views 27276 36160 User List 
+INFO 2023-11-23 16:09:40,386 views 27276 36160 Department List 
+INFO 2023-11-23 16:09:40,387 views 27276 36160 Student List 
+INFO 2023-11-23 16:09:40,387 views 27276 36160 Attendence log with this is id update 
+INFO 2023-11-23 16:09:40,388 views 27276 36160 Course  with this is id update 
+INFO 2023-11-23 16:09:40,388 views 27276 36160 User  with this is id update 
+INFO 2023-11-23 16:15:38,381 signals 36068 38440 Admin Created  with  password: 123
+INFO 2023-11-23 16:15:38,414 views 36068 38440 Attendence log view create
+INFO 2023-11-23 16:15:38,420 views 36068 38440 New Course  Create
+INFO 2023-11-23 16:15:38,420 views 36068 38440 New User Create
+INFO 2023-11-23 16:15:38,422 views 36068 38440 New Department Create
+INFO 2023-11-23 16:15:38,423 views 36068 38440 New Student create
+INFO 2023-11-23 16:15:38,423 views 36068 38440 Attendence log list
+INFO 2023-11-23 16:15:38,423 views 36068 38440 Course List 
+INFO 2023-11-23 16:15:38,425 views 36068 38440 User List 
+INFO 2023-11-23 16:15:38,425 views 36068 38440 Department List 
+INFO 2023-11-23 16:15:38,425 views 36068 38440 Student List 
+INFO 2023-11-23 16:15:38,425 views 36068 38440 Attendence log with this is id update 
+INFO 2023-11-23 16:15:38,425 views 36068 38440 Course  with this is id update 
+INFO 2023-11-23 16:15:38,425 views 36068 38440 User  with this is id update 
+INFO 2023-11-23 16:16:02,935 signals 24400 37820 Admin Created  with  password: 123
+INFO 2023-11-23 16:16:02,979 views 24400 37820 Attendence log view create
+INFO 2023-11-23 16:16:02,979 views 24400 37820 New Course  Create
+INFO 2023-11-23 16:16:02,979 views 24400 37820 New User Create
+INFO 2023-11-23 16:16:02,979 views 24400 37820 New Department Create
+INFO 2023-11-23 16:16:02,979 views 24400 37820 New Student create
+INFO 2023-11-23 16:16:02,979 views 24400 37820 Attendence log list
+INFO 2023-11-23 16:16:02,979 views 24400 37820 Course List 
+INFO 2023-11-23 16:16:02,979 views 24400 37820 User List 
+INFO 2023-11-23 16:16:02,979 views 24400 37820 Department List 
+INFO 2023-11-23 16:16:02,986 views 24400 37820 Student List 
+INFO 2023-11-23 16:16:02,986 views 24400 37820 Attendence log with this is id update 
+INFO 2023-11-23 16:16:02,986 views 24400 37820 Course  with this is id update 
+INFO 2023-11-23 16:16:02,986 views 24400 37820 User  with this is id update 
+INFO 2023-11-23 16:17:04,245 signals 21372 13816 Admin Created  with  password: 123
+INFO 2023-11-23 16:17:04,287 views 21372 13816 Attendence log view create
+INFO 2023-11-23 16:17:04,287 views 21372 13816 New Course  Create
+INFO 2023-11-23 16:17:04,287 views 21372 13816 New User Create
+INFO 2023-11-23 16:17:04,287 views 21372 13816 New Department Create
+INFO 2023-11-23 16:17:04,287 views 21372 13816 New Student create
+INFO 2023-11-23 16:17:04,287 views 21372 13816 Attendence log list
+INFO 2023-11-23 16:17:04,287 views 21372 13816 Course List 
+INFO 2023-11-23 16:17:04,287 views 21372 13816 User List 
+INFO 2023-11-23 16:17:04,287 views 21372 13816 Department List 
+INFO 2023-11-23 16:17:04,287 views 21372 13816 Student List 
+INFO 2023-11-23 16:17:04,287 views 21372 13816 Attendence log with this is id update 
+INFO 2023-11-23 16:17:04,293 views 21372 13816 Course  with this is id update 
+INFO 2023-11-23 16:17:04,293 views 21372 13816 User  with this is id update 
+INFO 2023-11-23 16:17:32,597 signals 5508 24048 Admin Created  with  password: 123
+INFO 2023-11-23 16:17:32,635 views 5508 24048 Attendence log view create
+INFO 2023-11-23 16:17:32,635 views 5508 24048 New Course  Create
+INFO 2023-11-23 16:17:32,635 views 5508 24048 New User Create
+INFO 2023-11-23 16:17:32,635 views 5508 24048 New Department Create
+INFO 2023-11-23 16:17:32,639 views 5508 24048 New Student create
+INFO 2023-11-23 16:17:32,639 views 5508 24048 Attendence log list
+INFO 2023-11-23 16:17:32,639 views 5508 24048 Course List 
+INFO 2023-11-23 16:17:32,639 views 5508 24048 User List 
+INFO 2023-11-23 16:17:32,639 views 5508 24048 Department List 
+INFO 2023-11-23 16:17:32,639 views 5508 24048 Student List 
+INFO 2023-11-23 16:17:32,642 views 5508 24048 Attendence log with this is id update 
+INFO 2023-11-23 16:17:32,642 views 5508 24048 Course  with this is id update 
+INFO 2023-11-23 16:17:32,642 views 5508 24048 User  with this is id update 
+INFO 2023-11-23 16:18:06,781 signals 8404 8900 Admin Created  with  password: 123
+INFO 2023-11-23 16:18:06,814 views 8404 8900 Attendence log view create
+INFO 2023-11-23 16:18:06,814 views 8404 8900 New Course  Create
+INFO 2023-11-23 16:18:06,814 views 8404 8900 New User Create
+INFO 2023-11-23 16:18:06,821 views 8404 8900 New Department Create
+INFO 2023-11-23 16:18:06,822 views 8404 8900 New Student create
+INFO 2023-11-23 16:18:06,822 views 8404 8900 Attendence log list
+INFO 2023-11-23 16:18:06,822 views 8404 8900 Course List 
+INFO 2023-11-23 16:18:06,822 views 8404 8900 User List 
+INFO 2023-11-23 16:18:06,822 views 8404 8900 Department List 
+INFO 2023-11-23 16:18:06,824 views 8404 8900 Student List 
+INFO 2023-11-23 16:18:06,824 views 8404 8900 Attendence log with this is id update 
+INFO 2023-11-23 16:18:06,824 views 8404 8900 Course  with this is id update 
+INFO 2023-11-23 16:18:06,824 views 8404 8900 User  with this is id update 
+INFO 2023-11-23 16:18:56,548 signals 36648 35548 Admin Created  with  password: 123
+INFO 2023-11-23 16:18:56,581 views 36648 35548 Attendence log view create
+INFO 2023-11-23 16:18:56,581 views 36648 35548 New Course  Create
+INFO 2023-11-23 16:18:56,581 views 36648 35548 New User Create
+INFO 2023-11-23 16:18:56,589 views 36648 35548 New Department Create
+INFO 2023-11-23 16:18:56,590 views 36648 35548 New Student create
+INFO 2023-11-23 16:18:56,590 views 36648 35548 Attendence log list
+INFO 2023-11-23 16:18:56,590 views 36648 35548 Course List 
+INFO 2023-11-23 16:18:56,590 views 36648 35548 User List 
+INFO 2023-11-23 16:18:56,593 views 36648 35548 Department List 
+INFO 2023-11-23 16:18:56,594 views 36648 35548 Student List 
+INFO 2023-11-23 16:18:56,594 views 36648 35548 Attendence log with this is id update 
+INFO 2023-11-23 16:18:56,596 views 36648 35548 Course  with this is id update 
+INFO 2023-11-23 16:18:56,596 views 36648 35548 User  with this is id update 
+INFO 2023-11-23 16:19:16,123 signals 2332 33152 Admin Created  with  password: 123
+INFO 2023-11-23 16:19:16,167 views 2332 33152 Attendence log view create
+INFO 2023-11-23 16:19:16,167 views 2332 33152 New Course  Create
+INFO 2023-11-23 16:19:16,167 views 2332 33152 New User Create
+INFO 2023-11-23 16:19:16,167 views 2332 33152 New Department Create
+INFO 2023-11-23 16:19:16,167 views 2332 33152 New Student create
+INFO 2023-11-23 16:19:16,167 views 2332 33152 Attendence log list
+INFO 2023-11-23 16:19:16,167 views 2332 33152 Course List 
+INFO 2023-11-23 16:19:16,167 views 2332 33152 User List 
+INFO 2023-11-23 16:19:16,167 views 2332 33152 Department List 
+INFO 2023-11-23 16:19:16,167 views 2332 33152 Student List 
+INFO 2023-11-23 16:19:16,167 views 2332 33152 Attendence log with this is id update 
+INFO 2023-11-23 16:19:16,176 views 2332 33152 Course  with this is id update 
+INFO 2023-11-23 16:19:16,176 views 2332 33152 User  with this is id update 
+INFO 2023-11-23 16:19:17,954 signals 2332 33152 Admin Created  with  password: 123
+INFO 2023-11-23 16:19:46,248 signals 8388 15880 Admin Created  with  password: 123
+INFO 2023-11-23 16:19:46,286 views 8388 15880 Attendence log view create
+INFO 2023-11-23 16:19:46,286 views 8388 15880 New Course  Create
+INFO 2023-11-23 16:19:46,286 views 8388 15880 New User Create
+INFO 2023-11-23 16:19:46,289 views 8388 15880 New Department Create
+INFO 2023-11-23 16:19:46,289 views 8388 15880 New Student create
+INFO 2023-11-23 16:19:46,289 views 8388 15880 Attendence log list
+INFO 2023-11-23 16:19:46,289 views 8388 15880 Course List 
+INFO 2023-11-23 16:19:46,289 views 8388 15880 User List 
+INFO 2023-11-23 16:19:46,289 views 8388 15880 Department List 
+INFO 2023-11-23 16:19:46,289 views 8388 15880 Student List 
+INFO 2023-11-23 16:19:46,289 views 8388 15880 Attendence log with this is id update 
+INFO 2023-11-23 16:19:46,294 views 8388 15880 Course  with this is id update 
+INFO 2023-11-23 16:19:46,294 views 8388 15880 User  with this is id update 
+INFO 2023-11-23 16:19:48,074 signals 8388 15880 Admin Created  with  password: 123
+INFO 2023-11-23 16:28:15,080 basehttp 38020 27604 "POST /api/student_create/ HTTP/1.1" 201 140
+INFO 2023-11-23 16:29:41,619 signals 4280 16012 Admin Created  with  password: 123
+INFO 2023-11-23 16:29:41,657 views 4280 16012 Attendence log view create
+INFO 2023-11-23 16:29:41,657 views 4280 16012 New Course  Create
+INFO 2023-11-23 16:29:41,657 views 4280 16012 New User Create
+INFO 2023-11-23 16:29:41,666 views 4280 16012 New Department Create
+INFO 2023-11-23 16:29:41,667 views 4280 16012 New Student create
+INFO 2023-11-23 16:29:41,667 views 4280 16012 Attendence log list
+INFO 2023-11-23 16:29:41,667 views 4280 16012 Course List 
+INFO 2023-11-23 16:29:41,667 views 4280 16012 User List 
+INFO 2023-11-23 16:29:41,667 views 4280 16012 Department List 
+INFO 2023-11-23 16:29:41,667 views 4280 16012 Student List 
+INFO 2023-11-23 16:29:41,667 views 4280 16012 Attendence log with this is id update 
+INFO 2023-11-23 16:29:41,667 views 4280 16012 Course  with this is id update 
+INFO 2023-11-23 16:29:41,667 views 4280 16012 User  with this is id update 
+INFO 2023-11-23 16:29:43,804 signals 4280 16012 Admin Created  with  password: 123
+INFO 2023-11-23 16:30:53,601 signals 29368 36872 Admin Created  with  password: 123
+INFO 2023-11-23 16:30:53,640 views 29368 36872 Attendence log view create
+INFO 2023-11-23 16:30:53,640 views 29368 36872 New Course  Create
+INFO 2023-11-23 16:30:53,640 views 29368 36872 New User Create
+INFO 2023-11-23 16:30:53,642 views 29368 36872 New Department Create
+INFO 2023-11-23 16:30:53,642 views 29368 36872 New Student create
+INFO 2023-11-23 16:30:53,642 views 29368 36872 Attendence log list
+INFO 2023-11-23 16:30:53,642 views 29368 36872 Course List 
+INFO 2023-11-23 16:30:53,642 views 29368 36872 User List 
+INFO 2023-11-23 16:30:53,642 views 29368 36872 Department List 
+INFO 2023-11-23 16:30:53,642 views 29368 36872 Student List 
+INFO 2023-11-23 16:30:53,642 views 29368 36872 Attendence log with this is id update 
+INFO 2023-11-23 16:30:53,642 views 29368 36872 Course  with this is id update 
+INFO 2023-11-23 16:30:53,648 views 29368 36872 User  with this is id update 
+INFO 2023-11-23 16:30:55,710 signals 29368 36872 Admin Created  with  password: 123
+INFO 2023-11-23 16:32:53,027 signals 24012 34764 Admin Created  with  password: 123
+INFO 2023-11-23 16:32:53,050 views 24012 34764 Attendence log view create
+INFO 2023-11-23 16:32:53,050 views 24012 34764 New Course  Create
+INFO 2023-11-23 16:32:53,050 views 24012 34764 New User Create
+INFO 2023-11-23 16:32:53,057 views 24012 34764 New Department Create
+INFO 2023-11-23 16:32:53,058 views 24012 34764 New Student create
+INFO 2023-11-23 16:32:53,058 views 24012 34764 Attendence log list
+INFO 2023-11-23 16:32:53,058 views 24012 34764 Course List 
+INFO 2023-11-23 16:32:53,058 views 24012 34764 User List 
+INFO 2023-11-23 16:32:53,058 views 24012 34764 Department List 
+INFO 2023-11-23 16:32:53,058 views 24012 34764 Student List 
+INFO 2023-11-23 16:32:53,058 views 24012 34764 Attendence log with this is id update 
+INFO 2023-11-23 16:32:53,058 views 24012 34764 Course  with this is id update 
+INFO 2023-11-23 16:32:53,063 views 24012 34764 User  with this is id update 
+WARNING 2023-11-23 16:32:54,158 log 24012 34764 Bad Request: /api/department_create/
+INFO 2023-11-23 16:40:56,686 signals 7196 5956 Admin Created  with  password: 123
+INFO 2023-11-23 16:40:56,721 views 7196 5956 Attendence log view create
+INFO 2023-11-23 16:40:56,726 views 7196 5956 New Course  Create
+INFO 2023-11-23 16:40:56,726 views 7196 5956 New User Create
+INFO 2023-11-23 16:40:56,726 views 7196 5956 New Department Create
+INFO 2023-11-23 16:40:56,726 views 7196 5956 New Student create
+INFO 2023-11-23 16:40:56,726 views 7196 5956 Attendence log list
+INFO 2023-11-23 16:40:56,726 views 7196 5956 Course List 
+INFO 2023-11-23 16:40:56,726 views 7196 5956 User List 
+INFO 2023-11-23 16:40:56,726 views 7196 5956 Department List 
+INFO 2023-11-23 16:40:56,726 views 7196 5956 Student List 
+INFO 2023-11-23 16:40:56,726 views 7196 5956 Attendence log with this is id update 
+INFO 2023-11-23 16:40:56,726 views 7196 5956 Course  with this is id update 
+INFO 2023-11-23 16:40:56,726 views 7196 5956 User  with this is id update 
+INFO 2023-11-23 16:41:46,560 signals 11432 25220 Admin Created  with  password: 123
+INFO 2023-11-23 16:41:46,597 views 11432 25220 Attendence log view create
+INFO 2023-11-23 16:41:46,597 views 11432 25220 New Course  Create
+INFO 2023-11-23 16:41:46,597 views 11432 25220 New User Create
+INFO 2023-11-23 16:41:46,597 views 11432 25220 New Department Create
+INFO 2023-11-23 16:41:46,597 views 11432 25220 New Student create
+INFO 2023-11-23 16:41:46,604 views 11432 25220 Attendence log list
+INFO 2023-11-23 16:41:46,605 views 11432 25220 Course List 
+INFO 2023-11-23 16:41:46,605 views 11432 25220 User List 
+INFO 2023-11-23 16:41:46,605 views 11432 25220 Department List 
+INFO 2023-11-23 16:41:46,605 views 11432 25220 Student List 
+INFO 2023-11-23 16:41:46,605 views 11432 25220 Attendence log with this is id update 
+INFO 2023-11-23 16:41:46,605 views 11432 25220 Course  with this is id update 
+INFO 2023-11-23 16:41:46,607 views 11432 25220 User  with this is id update 
+INFO 2023-11-23 17:01:45,132 signals 29868 16556 Admin Created  with  password: 123
+INFO 2023-11-23 17:01:45,159 views 29868 16556 Attendence log view create
+INFO 2023-11-23 17:01:45,159 views 29868 16556 New Course  Create
+INFO 2023-11-23 17:01:45,167 views 29868 16556 New User Create
+INFO 2023-11-23 17:01:45,167 views 29868 16556 New Department Create
+INFO 2023-11-23 17:01:45,167 views 29868 16556 New Student create
+INFO 2023-11-23 17:01:45,167 views 29868 16556 Attendence log list
+INFO 2023-11-23 17:01:45,167 views 29868 16556 Course List 
+INFO 2023-11-23 17:01:45,167 views 29868 16556 User List 
+INFO 2023-11-23 17:01:45,167 views 29868 16556 Department List 
+INFO 2023-11-23 17:01:45,167 views 29868 16556 Student List 
+INFO 2023-11-23 17:01:45,167 views 29868 16556 Attendence log with this is id update 
+INFO 2023-11-23 17:01:45,167 views 29868 16556 Course  with this is id update 
+INFO 2023-11-23 17:01:45,167 views 29868 16556 User  with this is id update 
+WARNING 2023-11-23 17:01:45,218 log 29868 16556 Not Found: /api/attendence_list/
+INFO 2023-11-23 17:02:08,249 signals 4344 17656 Admin Created  with  password: 123
+INFO 2023-11-23 17:02:08,273 views 4344 17656 Attendence log view create
+INFO 2023-11-23 17:02:08,273 views 4344 17656 New Course  Create
+INFO 2023-11-23 17:02:08,273 views 4344 17656 New User Create
+INFO 2023-11-23 17:02:08,282 views 4344 17656 New Department Create
+INFO 2023-11-23 17:02:08,282 views 4344 17656 New Student create
+INFO 2023-11-23 17:02:08,282 views 4344 17656 Attendence log list
+INFO 2023-11-23 17:02:08,286 views 4344 17656 Course List 
+INFO 2023-11-23 17:02:08,286 views 4344 17656 User List 
+INFO 2023-11-23 17:02:08,286 views 4344 17656 Department List 
+INFO 2023-11-23 17:02:08,287 views 4344 17656 Student List 
+INFO 2023-11-23 17:02:08,287 views 4344 17656 Attendence log with this is id update 
+INFO 2023-11-23 17:02:08,287 views 4344 17656 Course  with this is id update 
+INFO 2023-11-23 17:02:08,287 views 4344 17656 User  with this is id update 
+WARNING 2023-11-23 17:02:08,326 log 4344 17656 Not Found: /api/attendence_list/
+INFO 2023-11-23 17:03:22,429 signals 21524 27108 Admin Created  with  password: 123
+INFO 2023-11-23 17:03:22,454 views 21524 27108 Attendence log view create
+INFO 2023-11-23 17:03:22,462 views 21524 27108 New Course  Create
+INFO 2023-11-23 17:03:22,462 views 21524 27108 New User Create
+INFO 2023-11-23 17:03:22,462 views 21524 27108 New Department Create
+INFO 2023-11-23 17:03:22,462 views 21524 27108 New Student create
+INFO 2023-11-23 17:03:22,462 views 21524 27108 Attendence log list
+INFO 2023-11-23 17:03:22,462 views 21524 27108 Course List 
+INFO 2023-11-23 17:03:22,462 views 21524 27108 User List 
+INFO 2023-11-23 17:03:22,462 views 21524 27108 Department List 
+INFO 2023-11-23 17:03:22,470 views 21524 27108 Student List 
+INFO 2023-11-23 17:03:22,470 views 21524 27108 Attendence log with this is id update 
+INFO 2023-11-23 17:03:22,470 views 21524 27108 Course  with this is id update 
+INFO 2023-11-23 17:03:22,470 views 21524 27108 User  with this is id update 
+WARNING 2023-11-23 17:03:22,517 log 21524 27108 Not Found: /api/attendence_list/
+INFO 2023-11-23 17:04:00,952 signals 35656 4724 Admin Created  with  password: 123
+INFO 2023-11-23 17:04:00,983 views 35656 4724 Attendence log view create
+INFO 2023-11-23 17:04:00,983 views 35656 4724 New Course  Create
+INFO 2023-11-23 17:04:00,983 views 35656 4724 New User Create
+INFO 2023-11-23 17:04:00,989 views 35656 4724 New Department Create
+INFO 2023-11-23 17:04:00,989 views 35656 4724 New Student create
+INFO 2023-11-23 17:04:00,990 views 35656 4724 Attendence log list
+INFO 2023-11-23 17:04:00,990 views 35656 4724 Course List 
+INFO 2023-11-23 17:04:00,991 views 35656 4724 User List 
+INFO 2023-11-23 17:04:00,991 views 35656 4724 Department List 
+INFO 2023-11-23 17:04:00,993 views 35656 4724 Student List 
+INFO 2023-11-23 17:04:00,993 views 35656 4724 Attendence log with this is id update 
+INFO 2023-11-23 17:04:00,993 views 35656 4724 Course  with this is id update 
+INFO 2023-11-23 17:04:00,993 views 35656 4724 User  with this is id update 
+WARNING 2023-11-23 17:04:01,030 log 35656 4724 Not Found: /api/attendence_list/
+INFO 2023-11-23 17:04:03,502 signals 35656 4724 Admin Created  with  password: 123
+WARNING 2023-11-23 17:04:03,518 log 35656 4724 Not Found: /api/attendence_list/
+INFO 2023-11-23 17:35:49,521 signals 37832 19388 Admin Created  with  password: 123
+INFO 2023-11-23 17:35:49,557 views 37832 19388 Attendence log view create
+INFO 2023-11-23 17:35:49,557 views 37832 19388 New Course  Create
+INFO 2023-11-23 17:35:49,557 views 37832 19388 New User Create
+INFO 2023-11-23 17:35:49,557 views 37832 19388 New Department Create
+INFO 2023-11-23 17:35:49,557 views 37832 19388 New Student create
+INFO 2023-11-23 17:35:49,557 views 37832 19388 Attendence log list
+INFO 2023-11-23 17:35:49,557 views 37832 19388 Course List 
+INFO 2023-11-23 17:35:49,557 views 37832 19388 User List 
+INFO 2023-11-23 17:35:49,557 views 37832 19388 Department List 
+INFO 2023-11-23 17:35:49,557 views 37832 19388 Student List 
+INFO 2023-11-23 17:35:49,557 views 37832 19388 Attendence log with this is id update 
+INFO 2023-11-23 17:35:49,565 views 37832 19388 Course  with this is id update 
+INFO 2023-11-23 17:35:49,565 views 37832 19388 User  with this is id update 
+WARNING 2023-11-23 17:35:49,607 log 37832 19388 Not Found: /api/attendence_list/
+WARNING 2023-11-23 17:35:50,337 log 37832 19388 Not Found: /api/course_list/
+INFO 2023-11-23 19:11:42,518 signals 39840 39844 Admin Created  with  password: 123
+INFO 2023-11-23 19:11:42,559 views 39840 39844 Attendence log view create
+INFO 2023-11-23 19:11:42,559 views 39840 39844 New Course  Create
+INFO 2023-11-23 19:11:42,559 views 39840 39844 New User Create
+INFO 2023-11-23 19:11:42,559 views 39840 39844 New Department Create
+INFO 2023-11-23 19:11:42,559 views 39840 39844 New Student create
+INFO 2023-11-23 19:11:42,559 views 39840 39844 Attendence log list
+INFO 2023-11-23 19:11:42,559 views 39840 39844 Course List 
+INFO 2023-11-23 19:11:42,559 views 39840 39844 User List 
+INFO 2023-11-23 19:11:42,559 views 39840 39844 Department List 
+INFO 2023-11-23 19:11:42,559 views 39840 39844 Student List 
+INFO 2023-11-23 19:11:42,569 views 39840 39844 Attendence log with this is id update 
+INFO 2023-11-23 19:11:42,569 views 39840 39844 Course  with this is id update 
+INFO 2023-11-23 19:11:42,569 views 39840 39844 User  with this is id update 
+WARNING 2023-11-23 19:11:42,629 log 39840 39844 Not Found: /api/attendence_list/
+INFO 2023-11-23 19:12:00,809 signals 27748 27192 Admin Created  with  password: 123
+INFO 2023-11-23 19:12:00,829 views 27748 27192 Attendence log view create
+INFO 2023-11-23 19:12:00,842 views 27748 27192 New Course  Create
+INFO 2023-11-23 19:12:00,842 views 27748 27192 New User Create
+INFO 2023-11-23 19:12:00,842 views 27748 27192 New Department Create
+INFO 2023-11-23 19:12:00,842 views 27748 27192 New Student create
+INFO 2023-11-23 19:12:00,842 views 27748 27192 Attendence log list
+INFO 2023-11-23 19:12:00,842 views 27748 27192 Course List 
+INFO 2023-11-23 19:12:00,842 views 27748 27192 User List 
+INFO 2023-11-23 19:12:00,842 views 27748 27192 Department List 
+INFO 2023-11-23 19:12:00,848 views 27748 27192 Student List 
+INFO 2023-11-23 19:12:00,848 views 27748 27192 Attendence log with this is id update 
+INFO 2023-11-23 19:12:00,848 views 27748 27192 Course  with this is id update 
+INFO 2023-11-23 19:12:00,848 views 27748 27192 User  with this is id update 
+WARNING 2023-11-23 19:12:00,883 log 27748 27192 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:12:01,623 log 27748 27192 Not Found: /api/course_list/
+INFO 2023-11-23 19:12:40,762 basehttp 38020 27604 "POST /api/attendence_log_create/ HTTP/1.1" 201 122
+INFO 2023-11-23 19:12:46,662 signals 38144 33680 Admin Created  with  password: 123
+INFO 2023-11-23 19:12:46,709 views 38144 33680 Attendence log view create
+INFO 2023-11-23 19:12:46,709 views 38144 33680 New Course  Create
+INFO 2023-11-23 19:12:46,709 views 38144 33680 New User Create
+INFO 2023-11-23 19:12:46,709 views 38144 33680 New Department Create
+INFO 2023-11-23 19:12:46,709 views 38144 33680 New Student create
+INFO 2023-11-23 19:12:46,709 views 38144 33680 Attendence log list
+INFO 2023-11-23 19:12:46,709 views 38144 33680 Course List 
+INFO 2023-11-23 19:12:46,709 views 38144 33680 User List 
+INFO 2023-11-23 19:12:46,709 views 38144 33680 Department List 
+INFO 2023-11-23 19:12:46,709 views 38144 33680 Student List 
+INFO 2023-11-23 19:12:46,722 views 38144 33680 Attendence log with this is id update 
+INFO 2023-11-23 19:12:46,722 views 38144 33680 Course  with this is id update 
+INFO 2023-11-23 19:12:46,722 views 38144 33680 User  with this is id update 
+WARNING 2023-11-23 19:12:46,757 log 38144 33680 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:12:47,487 log 38144 33680 Not Found: /api/course_list/
+INFO 2023-11-23 19:13:04,677 signals 13192 27192 Admin Created  with  password: 123
+INFO 2023-11-23 19:13:04,715 views 13192 27192 Attendence log view create
+INFO 2023-11-23 19:13:04,715 views 13192 27192 New Course  Create
+INFO 2023-11-23 19:13:04,715 views 13192 27192 New User Create
+INFO 2023-11-23 19:13:04,722 views 13192 27192 New Department Create
+INFO 2023-11-23 19:13:04,723 views 13192 27192 New Student create
+INFO 2023-11-23 19:13:04,723 views 13192 27192 Attendence log list
+INFO 2023-11-23 19:13:04,723 views 13192 27192 Course List 
+INFO 2023-11-23 19:13:04,723 views 13192 27192 User List 
+INFO 2023-11-23 19:13:04,723 views 13192 27192 Department List 
+INFO 2023-11-23 19:13:04,723 views 13192 27192 Student List 
+INFO 2023-11-23 19:13:04,727 views 13192 27192 Attendence log with this is id update 
+INFO 2023-11-23 19:13:04,727 views 13192 27192 Course  with this is id update 
+INFO 2023-11-23 19:13:04,727 views 13192 27192 User  with this is id update 
+WARNING 2023-11-23 19:13:04,780 log 13192 27192 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:13:05,516 log 13192 27192 Not Found: /api/course_list/
+INFO 2023-11-23 19:13:26,587 signals 7972 7016 Admin Created  with  password: 123
+INFO 2023-11-23 19:13:26,617 views 7972 7016 Attendence log view create
+INFO 2023-11-23 19:13:26,617 views 7972 7016 New Course  Create
+INFO 2023-11-23 19:13:26,627 views 7972 7016 New User Create
+INFO 2023-11-23 19:13:26,627 views 7972 7016 New Department Create
+INFO 2023-11-23 19:13:26,627 views 7972 7016 New Student create
+INFO 2023-11-23 19:13:26,627 views 7972 7016 Attendence log list
+INFO 2023-11-23 19:13:26,627 views 7972 7016 Course List 
+INFO 2023-11-23 19:13:26,627 views 7972 7016 User List 
+INFO 2023-11-23 19:13:26,627 views 7972 7016 Department List 
+INFO 2023-11-23 19:13:26,627 views 7972 7016 Student List 
+INFO 2023-11-23 19:13:26,627 views 7972 7016 Attendence log with this is id update 
+INFO 2023-11-23 19:13:26,627 views 7972 7016 Course  with this is id update 
+INFO 2023-11-23 19:13:26,627 views 7972 7016 User  with this is id update 
+WARNING 2023-11-23 19:13:26,670 log 7972 7016 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:13:27,366 log 7972 7016 Not Found: /api/course_list/
+INFO 2023-11-23 19:14:01,010 signals 20968 37324 Admin Created  with  password: 123
+INFO 2023-11-23 19:14:01,044 views 20968 37324 Attendence log view create
+INFO 2023-11-23 19:14:01,052 views 20968 37324 New Course  Create
+INFO 2023-11-23 19:14:01,052 views 20968 37324 New User Create
+INFO 2023-11-23 19:14:01,054 views 20968 37324 New Department Create
+INFO 2023-11-23 19:14:01,054 views 20968 37324 New Student create
+INFO 2023-11-23 19:14:01,054 views 20968 37324 Attendence log list
+INFO 2023-11-23 19:14:01,054 views 20968 37324 Course List 
+INFO 2023-11-23 19:14:01,054 views 20968 37324 User List 
+INFO 2023-11-23 19:14:01,054 views 20968 37324 Department List 
+INFO 2023-11-23 19:14:01,057 views 20968 37324 Student List 
+INFO 2023-11-23 19:14:01,058 views 20968 37324 Attendence log with this is id update 
+INFO 2023-11-23 19:14:01,058 views 20968 37324 Course  with this is id update 
+INFO 2023-11-23 19:14:01,059 views 20968 37324 User  with this is id update 
+WARNING 2023-11-23 19:14:01,087 log 20968 37324 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:14:01,865 log 20968 37324 Not Found: /api/course_list/
+INFO 2023-11-23 19:19:28,401 signals 6792 28888 Admin Created  with  password: 123
+INFO 2023-11-23 19:19:28,428 views 6792 28888 Attendence log view create
+INFO 2023-11-23 19:19:28,428 views 6792 28888 New Course  Create
+INFO 2023-11-23 19:19:28,434 views 6792 28888 New User Create
+INFO 2023-11-23 19:19:28,434 views 6792 28888 New Department Create
+INFO 2023-11-23 19:19:28,434 views 6792 28888 New Student create
+INFO 2023-11-23 19:19:28,434 views 6792 28888 Attendence log list
+INFO 2023-11-23 19:19:28,434 views 6792 28888 Course List 
+INFO 2023-11-23 19:19:28,434 views 6792 28888 User List 
+INFO 2023-11-23 19:19:28,434 views 6792 28888 Department List 
+INFO 2023-11-23 19:19:28,434 views 6792 28888 Student List 
+INFO 2023-11-23 19:19:28,434 views 6792 28888 Attendence log with this is id update 
+INFO 2023-11-23 19:19:28,434 views 6792 28888 Course  with this is id update 
+INFO 2023-11-23 19:19:28,434 views 6792 28888 User  with this is id update 
+WARNING 2023-11-23 19:19:28,478 log 6792 28888 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:19:29,165 log 6792 28888 Not Found: /api/attendnce_log_updateNone/
+INFO 2023-11-23 19:21:08,973 signals 8020 19916 Admin Created  with  password: 123
+INFO 2023-11-23 19:21:09,006 views 8020 19916 Attendence log view create
+INFO 2023-11-23 19:21:09,006 views 8020 19916 New Course  Create
+INFO 2023-11-23 19:21:09,006 views 8020 19916 New User Create
+INFO 2023-11-23 19:21:09,011 views 8020 19916 New Department Create
+INFO 2023-11-23 19:21:09,011 views 8020 19916 New Student create
+INFO 2023-11-23 19:21:09,011 views 8020 19916 Attendence log list
+INFO 2023-11-23 19:21:09,011 views 8020 19916 Course List 
+INFO 2023-11-23 19:21:09,011 views 8020 19916 User List 
+INFO 2023-11-23 19:21:09,011 views 8020 19916 Department List 
+INFO 2023-11-23 19:21:09,011 views 8020 19916 Student List 
+INFO 2023-11-23 19:21:09,011 views 8020 19916 Attendence log with this is id update 
+INFO 2023-11-23 19:21:09,011 views 8020 19916 Course  with this is id update 
+INFO 2023-11-23 19:21:09,016 views 8020 19916 User  with this is id update 
+WARNING 2023-11-23 19:21:09,058 log 8020 19916 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:21:09,770 log 8020 19916 Not Found: /api/attendnce_log_updateNone/
+INFO 2023-11-23 19:23:21,174 signals 37520 9836 Admin Created  with  password: 123
+INFO 2023-11-23 19:23:21,209 views 37520 9836 Attendence log view create
+INFO 2023-11-23 19:23:21,209 views 37520 9836 New Course  Create
+INFO 2023-11-23 19:23:21,209 views 37520 9836 New User Create
+INFO 2023-11-23 19:23:21,209 views 37520 9836 New Department Create
+INFO 2023-11-23 19:23:21,209 views 37520 9836 New Student create
+INFO 2023-11-23 19:23:21,209 views 37520 9836 Attendence log list
+INFO 2023-11-23 19:23:21,209 views 37520 9836 Course List 
+INFO 2023-11-23 19:23:21,216 views 37520 9836 User List 
+INFO 2023-11-23 19:23:21,216 views 37520 9836 Department List 
+INFO 2023-11-23 19:23:21,216 views 37520 9836 Student List 
+INFO 2023-11-23 19:23:21,216 views 37520 9836 Attendence log with this is id update 
+INFO 2023-11-23 19:23:21,216 views 37520 9836 Course  with this is id update 
+INFO 2023-11-23 19:23:21,216 views 37520 9836 User  with this is id update 
+WARNING 2023-11-23 19:23:21,260 log 37520 9836 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:23:21,990 log 37520 9836 Not Found: /api/attendnce_log_update/None/
+INFO 2023-11-23 19:24:38,460 signals 1144 39640 Admin Created  with  password: 123
+INFO 2023-11-23 19:24:38,494 views 1144 39640 Attendence log view create
+INFO 2023-11-23 19:24:38,494 views 1144 39640 New Course  Create
+INFO 2023-11-23 19:24:38,494 views 1144 39640 New User Create
+INFO 2023-11-23 19:24:38,494 views 1144 39640 New Department Create
+INFO 2023-11-23 19:24:38,494 views 1144 39640 New Student create
+INFO 2023-11-23 19:24:38,500 views 1144 39640 Attendence log list
+INFO 2023-11-23 19:24:38,500 views 1144 39640 Course List 
+INFO 2023-11-23 19:24:38,500 views 1144 39640 User List 
+INFO 2023-11-23 19:24:38,500 views 1144 39640 Department List 
+INFO 2023-11-23 19:24:38,502 views 1144 39640 Student List 
+INFO 2023-11-23 19:24:38,503 views 1144 39640 Attendence log with this is id update 
+INFO 2023-11-23 19:24:38,503 views 1144 39640 Course  with this is id update 
+INFO 2023-11-23 19:24:38,503 views 1144 39640 User  with this is id update 
+WARNING 2023-11-23 19:24:38,537 log 1144 39640 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:24:39,261 log 1144 39640 Not Found: /api/attendnce_log_update/None/
+INFO 2023-11-23 19:24:59,441 signals 34260 11824 Admin Created  with  password: 123
+INFO 2023-11-23 19:24:59,472 views 34260 11824 Attendence log view create
+INFO 2023-11-23 19:24:59,472 views 34260 11824 New Course  Create
+INFO 2023-11-23 19:24:59,472 views 34260 11824 New User Create
+INFO 2023-11-23 19:24:59,472 views 34260 11824 New Department Create
+INFO 2023-11-23 19:24:59,481 views 34260 11824 New Student create
+INFO 2023-11-23 19:24:59,481 views 34260 11824 Attendence log list
+INFO 2023-11-23 19:24:59,481 views 34260 11824 Course List 
+INFO 2023-11-23 19:24:59,481 views 34260 11824 User List 
+INFO 2023-11-23 19:24:59,481 views 34260 11824 Department List 
+INFO 2023-11-23 19:24:59,481 views 34260 11824 Student List 
+INFO 2023-11-23 19:24:59,481 views 34260 11824 Attendence log with this is id update 
+INFO 2023-11-23 19:24:59,481 views 34260 11824 Course  with this is id update 
+INFO 2023-11-23 19:24:59,484 views 34260 11824 User  with this is id update 
+WARNING 2023-11-23 19:24:59,527 log 34260 11824 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:25:00,356 log 34260 11824 Not Found: /api/attendnce_log_update/None
+INFO 2023-11-23 19:25:48,017 signals 39792 4280 Admin Created  with  password: 123
+INFO 2023-11-23 19:25:48,051 views 39792 4280 Attendence log view create
+INFO 2023-11-23 19:25:48,056 views 39792 4280 New Course  Create
+INFO 2023-11-23 19:25:48,056 views 39792 4280 New User Create
+INFO 2023-11-23 19:25:48,056 views 39792 4280 New Department Create
+INFO 2023-11-23 19:25:48,056 views 39792 4280 New Student create
+INFO 2023-11-23 19:25:48,056 views 39792 4280 Attendence log list
+INFO 2023-11-23 19:25:48,061 views 39792 4280 Course List 
+INFO 2023-11-23 19:25:48,061 views 39792 4280 User List 
+INFO 2023-11-23 19:25:48,062 views 39792 4280 Department List 
+INFO 2023-11-23 19:25:48,062 views 39792 4280 Student List 
+INFO 2023-11-23 19:25:48,062 views 39792 4280 Attendence log with this is id update 
+INFO 2023-11-23 19:25:48,062 views 39792 4280 Course  with this is id update 
+INFO 2023-11-23 19:25:48,062 views 39792 4280 User  with this is id update 
+WARNING 2023-11-23 19:25:48,104 log 39792 4280 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:25:48,827 log 39792 4280 Not Found: /api/attendnce_log_update/None
+INFO 2023-11-23 19:27:18,588 signals 39008 27596 Admin Created  with  password: 123
+INFO 2023-11-23 19:27:18,623 views 39008 27596 Attendence log view create
+INFO 2023-11-23 19:27:18,623 views 39008 27596 New Course  Create
+INFO 2023-11-23 19:27:18,629 views 39008 27596 New User Create
+INFO 2023-11-23 19:27:18,629 views 39008 27596 New Department Create
+INFO 2023-11-23 19:27:18,629 views 39008 27596 New Student create
+INFO 2023-11-23 19:27:18,629 views 39008 27596 Attendence log list
+INFO 2023-11-23 19:27:18,629 views 39008 27596 Course List 
+INFO 2023-11-23 19:27:18,629 views 39008 27596 User List 
+INFO 2023-11-23 19:27:18,629 views 39008 27596 Department List 
+INFO 2023-11-23 19:27:18,629 views 39008 27596 Student List 
+INFO 2023-11-23 19:27:18,629 views 39008 27596 Attendence log with this is id update 
+INFO 2023-11-23 19:27:18,629 views 39008 27596 Course  with this is id update 
+INFO 2023-11-23 19:27:18,629 views 39008 27596 User  with this is id update 
+WARNING 2023-11-23 19:27:18,676 log 39008 27596 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:27:19,371 log 39008 27596 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 19:27:44,275 signals 23716 36164 Admin Created  with  password: 123
+INFO 2023-11-23 19:27:44,312 views 23716 36164 Attendence log view create
+INFO 2023-11-23 19:27:44,312 views 23716 36164 New Course  Create
+INFO 2023-11-23 19:27:44,312 views 23716 36164 New User Create
+INFO 2023-11-23 19:27:44,312 views 23716 36164 New Department Create
+INFO 2023-11-23 19:27:44,318 views 23716 36164 New Student create
+INFO 2023-11-23 19:27:44,319 views 23716 36164 Attendence log list
+INFO 2023-11-23 19:27:44,319 views 23716 36164 Course List 
+INFO 2023-11-23 19:27:44,319 views 23716 36164 User List 
+INFO 2023-11-23 19:27:44,319 views 23716 36164 Department List 
+INFO 2023-11-23 19:27:44,319 views 23716 36164 Student List 
+INFO 2023-11-23 19:27:44,319 views 23716 36164 Attendence log with this is id update 
+INFO 2023-11-23 19:27:44,319 views 23716 36164 Course  with this is id update 
+INFO 2023-11-23 19:27:44,319 views 23716 36164 User  with this is id update 
+WARNING 2023-11-23 19:27:44,363 log 23716 36164 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:27:45,075 log 23716 36164 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 19:27:53,673 signals 8860 39896 Admin Created  with  password: 123
+INFO 2023-11-23 19:27:53,707 views 8860 39896 Attendence log view create
+INFO 2023-11-23 19:27:53,707 views 8860 39896 New Course  Create
+INFO 2023-11-23 19:27:53,707 views 8860 39896 New User Create
+INFO 2023-11-23 19:27:53,707 views 8860 39896 New Department Create
+INFO 2023-11-23 19:27:53,707 views 8860 39896 New Student create
+INFO 2023-11-23 19:27:53,707 views 8860 39896 Attendence log list
+INFO 2023-11-23 19:27:53,707 views 8860 39896 Course List 
+INFO 2023-11-23 19:27:53,713 views 8860 39896 User List 
+INFO 2023-11-23 19:27:53,714 views 8860 39896 Department List 
+INFO 2023-11-23 19:27:53,714 views 8860 39896 Student List 
+INFO 2023-11-23 19:27:53,714 views 8860 39896 Attendence log with this is id update 
+INFO 2023-11-23 19:27:53,714 views 8860 39896 Course  with this is id update 
+INFO 2023-11-23 19:27:53,716 views 8860 39896 User  with this is id update 
+WARNING 2023-11-23 19:27:53,761 log 8860 39896 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:27:54,470 log 8860 39896 Bad Request: /api/attendnce_log_update/1
+WARNING 2023-11-23 19:31:13,087 log 38020 27604 Unauthorized: /api/attendnce_log_update/1
+WARNING 2023-11-23 19:31:13,089 basehttp 38020 27604 "PUT /api/attendnce_log_update/1 HTTP/1.1" 401 39
+INFO 2023-11-23 19:31:22,462 basehttp 38020 27604 "PUT /api/attendnce_log_update/1 HTTP/1.1" 200 121
+INFO 2023-11-23 19:31:32,212 signals 39088 9996 Admin Created  with  password: 123
+INFO 2023-11-23 19:31:32,248 views 39088 9996 Attendence log view create
+INFO 2023-11-23 19:31:32,248 views 39088 9996 New Course  Create
+INFO 2023-11-23 19:31:32,248 views 39088 9996 New User Create
+INFO 2023-11-23 19:31:32,248 views 39088 9996 New Department Create
+INFO 2023-11-23 19:31:32,258 views 39088 9996 New Student create
+INFO 2023-11-23 19:31:32,258 views 39088 9996 Attendence log list
+INFO 2023-11-23 19:31:32,258 views 39088 9996 Course List 
+INFO 2023-11-23 19:31:32,258 views 39088 9996 User List 
+INFO 2023-11-23 19:31:32,258 views 39088 9996 Department List 
+INFO 2023-11-23 19:31:32,258 views 39088 9996 Student List 
+INFO 2023-11-23 19:31:32,258 views 39088 9996 Attendence log with this is id update 
+INFO 2023-11-23 19:31:32,258 views 39088 9996 Course  with this is id update 
+INFO 2023-11-23 19:31:32,263 views 39088 9996 User  with this is id update 
+WARNING 2023-11-23 19:31:32,306 log 39088 9996 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:31:33,028 log 39088 9996 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 19:32:21,739 signals 38220 7100 Admin Created  with  password: 123
+INFO 2023-11-23 19:32:21,778 views 38220 7100 Attendence log view create
+INFO 2023-11-23 19:32:21,778 views 38220 7100 New Course  Create
+INFO 2023-11-23 19:32:21,778 views 38220 7100 New User Create
+INFO 2023-11-23 19:32:21,778 views 38220 7100 New Department Create
+INFO 2023-11-23 19:32:21,778 views 38220 7100 New Student create
+INFO 2023-11-23 19:32:21,778 views 38220 7100 Attendence log list
+INFO 2023-11-23 19:32:21,778 views 38220 7100 Course List 
+INFO 2023-11-23 19:32:21,778 views 38220 7100 User List 
+INFO 2023-11-23 19:32:21,786 views 38220 7100 Department List 
+INFO 2023-11-23 19:32:21,786 views 38220 7100 Student List 
+INFO 2023-11-23 19:32:21,786 views 38220 7100 Attendence log with this is id update 
+INFO 2023-11-23 19:32:21,786 views 38220 7100 Course  with this is id update 
+INFO 2023-11-23 19:32:21,786 views 38220 7100 User  with this is id update 
+WARNING 2023-11-23 19:32:21,827 log 38220 7100 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:32:22,570 log 38220 7100 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 19:33:36,516 signals 27328 20672 Admin Created  with  password: 123
+INFO 2023-11-23 19:33:36,555 views 27328 20672 Attendence log view create
+INFO 2023-11-23 19:33:36,555 views 27328 20672 New Course  Create
+INFO 2023-11-23 19:33:36,555 views 27328 20672 New User Create
+INFO 2023-11-23 19:33:36,555 views 27328 20672 New Department Create
+INFO 2023-11-23 19:33:36,555 views 27328 20672 New Student create
+INFO 2023-11-23 19:33:36,555 views 27328 20672 Attendence log list
+INFO 2023-11-23 19:33:36,555 views 27328 20672 Course List 
+INFO 2023-11-23 19:33:36,555 views 27328 20672 User List 
+INFO 2023-11-23 19:33:36,555 views 27328 20672 Department List 
+INFO 2023-11-23 19:33:36,555 views 27328 20672 Student List 
+INFO 2023-11-23 19:33:36,555 views 27328 20672 Attendence log with this is id update 
+INFO 2023-11-23 19:33:36,555 views 27328 20672 Course  with this is id update 
+INFO 2023-11-23 19:33:36,555 views 27328 20672 User  with this is id update 
+WARNING 2023-11-23 19:33:36,604 log 27328 20672 Not Found: /api/attendence_list/
+INFO 2023-11-23 19:33:39,028 signals 27328 20672 Admin Created  with  password: 123
+WARNING 2023-11-23 19:33:39,053 log 27328 20672 Not Found: /api/attendence_list/
+INFO 2023-11-23 19:35:01,131 signals 23068 35008 Admin Created  with  password: 123
+INFO 2023-11-23 19:35:01,165 views 23068 35008 Attendence log view create
+INFO 2023-11-23 19:35:01,166 views 23068 35008 New Course  Create
+INFO 2023-11-23 19:35:01,166 views 23068 35008 New User Create
+INFO 2023-11-23 19:35:01,166 views 23068 35008 New Department Create
+INFO 2023-11-23 19:35:01,166 views 23068 35008 New Student create
+INFO 2023-11-23 19:35:01,166 views 23068 35008 Attendence log list
+INFO 2023-11-23 19:35:01,166 views 23068 35008 Course List 
+INFO 2023-11-23 19:35:01,166 views 23068 35008 User List 
+INFO 2023-11-23 19:35:01,166 views 23068 35008 Department List 
+INFO 2023-11-23 19:35:01,166 views 23068 35008 Student List 
+INFO 2023-11-23 19:35:01,172 views 23068 35008 Attendence log with this is id update 
+INFO 2023-11-23 19:35:01,172 views 23068 35008 Course  with this is id update 
+INFO 2023-11-23 19:35:01,172 views 23068 35008 User  with this is id update 
+WARNING 2023-11-23 19:35:01,216 log 23068 35008 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:35:01,933 log 23068 35008 Not Found: /api/attendnce_log_update/None
+INFO 2023-11-23 19:36:21,252 signals 7036 36760 Admin Created  with  password: 123
+INFO 2023-11-23 19:36:21,291 views 7036 36760 Attendence log view create
+INFO 2023-11-23 19:36:21,291 views 7036 36760 New Course  Create
+INFO 2023-11-23 19:36:21,291 views 7036 36760 New User Create
+INFO 2023-11-23 19:36:21,297 views 7036 36760 New Department Create
+INFO 2023-11-23 19:36:21,297 views 7036 36760 New Student create
+INFO 2023-11-23 19:36:21,297 views 7036 36760 Attendence log list
+INFO 2023-11-23 19:36:21,297 views 7036 36760 Course List 
+INFO 2023-11-23 19:36:21,297 views 7036 36760 User List 
+INFO 2023-11-23 19:36:21,299 views 7036 36760 Department List 
+INFO 2023-11-23 19:36:21,299 views 7036 36760 Student List 
+INFO 2023-11-23 19:36:21,299 views 7036 36760 Attendence log with this is id update 
+INFO 2023-11-23 19:36:21,299 views 7036 36760 Course  with this is id update 
+INFO 2023-11-23 19:36:21,299 views 7036 36760 User  with this is id update 
+WARNING 2023-11-23 19:36:21,349 log 7036 36760 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:36:22,052 log 7036 36760 Not Found: /api/attendnce_log_update/None
+INFO 2023-11-23 19:36:59,709 signals 23788 34576 Admin Created  with  password: 123
+INFO 2023-11-23 19:36:59,741 views 23788 34576 Attendence log view create
+INFO 2023-11-23 19:36:59,741 views 23788 34576 New Course  Create
+INFO 2023-11-23 19:36:59,741 views 23788 34576 New User Create
+INFO 2023-11-23 19:36:59,741 views 23788 34576 New Department Create
+INFO 2023-11-23 19:36:59,749 views 23788 34576 New Student create
+INFO 2023-11-23 19:36:59,749 views 23788 34576 Attendence log list
+INFO 2023-11-23 19:36:59,749 views 23788 34576 Course List 
+INFO 2023-11-23 19:36:59,749 views 23788 34576 User List 
+INFO 2023-11-23 19:36:59,749 views 23788 34576 Department List 
+INFO 2023-11-23 19:36:59,749 views 23788 34576 Student List 
+INFO 2023-11-23 19:36:59,749 views 23788 34576 Attendence log with this is id update 
+INFO 2023-11-23 19:36:59,749 views 23788 34576 Course  with this is id update 
+INFO 2023-11-23 19:36:59,749 views 23788 34576 User  with this is id update 
+WARNING 2023-11-23 19:36:59,802 log 23788 34576 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:37:00,500 log 23788 34576 Not Found: /api/attendnce_log_update/None
+INFO 2023-11-23 19:37:28,993 signals 5088 36132 Admin Created  with  password: 123
+INFO 2023-11-23 19:37:29,043 views 5088 36132 Attendence log view create
+INFO 2023-11-23 19:37:29,043 views 5088 36132 New Course  Create
+INFO 2023-11-23 19:37:29,043 views 5088 36132 New User Create
+INFO 2023-11-23 19:37:29,043 views 5088 36132 New Department Create
+INFO 2023-11-23 19:37:29,043 views 5088 36132 New Student create
+INFO 2023-11-23 19:37:29,043 views 5088 36132 Attendence log list
+INFO 2023-11-23 19:37:29,043 views 5088 36132 Course List 
+INFO 2023-11-23 19:37:29,043 views 5088 36132 User List 
+INFO 2023-11-23 19:37:29,043 views 5088 36132 Department List 
+INFO 2023-11-23 19:37:29,043 views 5088 36132 Student List 
+INFO 2023-11-23 19:37:29,043 views 5088 36132 Attendence log with this is id update 
+INFO 2023-11-23 19:37:29,043 views 5088 36132 Course  with this is id update 
+INFO 2023-11-23 19:37:29,043 views 5088 36132 User  with this is id update 
+WARNING 2023-11-23 19:37:29,141 log 5088 36132 Not Found: /api/attendence_list/
+INFO 2023-11-23 19:37:46,772 signals 12348 1884 Admin Created  with  password: 123
+INFO 2023-11-23 19:37:46,805 views 12348 1884 Attendence log view create
+INFO 2023-11-23 19:37:46,813 views 12348 1884 New Course  Create
+INFO 2023-11-23 19:37:46,814 views 12348 1884 New User Create
+INFO 2023-11-23 19:37:46,814 views 12348 1884 New Department Create
+INFO 2023-11-23 19:37:46,816 views 12348 1884 New Student create
+INFO 2023-11-23 19:37:46,816 views 12348 1884 Attendence log list
+INFO 2023-11-23 19:37:46,816 views 12348 1884 Course List 
+INFO 2023-11-23 19:37:46,816 views 12348 1884 User List 
+INFO 2023-11-23 19:37:46,816 views 12348 1884 Department List 
+INFO 2023-11-23 19:37:46,816 views 12348 1884 Student List 
+INFO 2023-11-23 19:37:46,816 views 12348 1884 Attendence log with this is id update 
+INFO 2023-11-23 19:37:46,816 views 12348 1884 Course  with this is id update 
+INFO 2023-11-23 19:37:46,816 views 12348 1884 User  with this is id update 
+WARNING 2023-11-23 19:37:46,859 log 12348 1884 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:37:47,544 log 12348 1884 Not Found: /api/attendnce_log_update/None
+INFO 2023-11-23 19:40:46,072 signals 39124 37568 Admin Created  with  password: 123
+INFO 2023-11-23 19:40:46,125 views 39124 37568 Attendence log view create
+INFO 2023-11-23 19:40:46,125 views 39124 37568 New Course  Create
+INFO 2023-11-23 19:40:46,125 views 39124 37568 New User Create
+INFO 2023-11-23 19:40:46,125 views 39124 37568 New Department Create
+INFO 2023-11-23 19:40:46,125 views 39124 37568 New Student create
+INFO 2023-11-23 19:40:46,125 views 39124 37568 Attendence log list
+INFO 2023-11-23 19:40:46,125 views 39124 37568 Course List 
+INFO 2023-11-23 19:40:46,125 views 39124 37568 User List 
+INFO 2023-11-23 19:40:46,125 views 39124 37568 Department List 
+INFO 2023-11-23 19:40:46,125 views 39124 37568 Student List 
+INFO 2023-11-23 19:40:46,125 views 39124 37568 Attendence log with this is id update 
+INFO 2023-11-23 19:40:46,125 views 39124 37568 Course  with this is id update 
+INFO 2023-11-23 19:40:46,125 views 39124 37568 User  with this is id update 
+WARNING 2023-11-23 19:40:46,198 log 39124 37568 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:40:46,937 log 39124 37568 Not Found: /api/attendnce_log_update/None
+INFO 2023-11-23 19:41:50,039 signals 39724 35252 Admin Created  with  password: 123
+INFO 2023-11-23 19:41:50,070 views 39724 35252 Attendence log view create
+INFO 2023-11-23 19:41:50,070 views 39724 35252 New Course  Create
+INFO 2023-11-23 19:41:50,078 views 39724 35252 New User Create
+INFO 2023-11-23 19:41:50,078 views 39724 35252 New Department Create
+INFO 2023-11-23 19:41:50,078 views 39724 35252 New Student create
+INFO 2023-11-23 19:41:50,081 views 39724 35252 Attendence log list
+INFO 2023-11-23 19:41:50,082 views 39724 35252 Course List 
+INFO 2023-11-23 19:41:50,083 views 39724 35252 User List 
+INFO 2023-11-23 19:41:50,083 views 39724 35252 Department List 
+INFO 2023-11-23 19:41:50,084 views 39724 35252 Student List 
+INFO 2023-11-23 19:41:50,084 views 39724 35252 Attendence log with this is id update 
+INFO 2023-11-23 19:41:50,085 views 39724 35252 Course  with this is id update 
+INFO 2023-11-23 19:41:50,085 views 39724 35252 User  with this is id update 
+WARNING 2023-11-23 19:41:50,127 log 39724 35252 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:41:50,826 log 39724 35252 Not Found: /api/attendnce_log_update/2
+INFO 2023-11-23 19:42:21,892 basehttp 38020 27604 "PUT /api/attendnce_log_update/2 HTTP/1.1" 200 122
+INFO 2023-11-23 19:43:25,501 signals 39488 31116 Admin Created  with  password: 123
+INFO 2023-11-23 19:43:25,533 views 39488 31116 Attendence log view create
+INFO 2023-11-23 19:43:25,533 views 39488 31116 New Course  Create
+INFO 2023-11-23 19:43:25,533 views 39488 31116 New User Create
+INFO 2023-11-23 19:43:25,533 views 39488 31116 New Department Create
+INFO 2023-11-23 19:43:25,533 views 39488 31116 New Student create
+INFO 2023-11-23 19:43:25,533 views 39488 31116 Attendence log list
+INFO 2023-11-23 19:43:25,533 views 39488 31116 Course List 
+INFO 2023-11-23 19:43:25,533 views 39488 31116 User List 
+INFO 2023-11-23 19:43:25,533 views 39488 31116 Department List 
+INFO 2023-11-23 19:43:25,533 views 39488 31116 Student List 
+INFO 2023-11-23 19:43:25,533 views 39488 31116 Attendence log with this is id update 
+INFO 2023-11-23 19:43:25,533 views 39488 31116 Course  with this is id update 
+INFO 2023-11-23 19:43:25,533 views 39488 31116 User  with this is id update 
+WARNING 2023-11-23 19:43:25,580 log 39488 31116 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:43:26,377 log 39488 31116 Not Found: /api/attendnce_log_update/2
+INFO 2023-11-23 19:49:15,804 signals 35808 29932 Admin Created  with  password: 123
+INFO 2023-11-23 19:49:15,840 views 35808 29932 Attendence log view create
+INFO 2023-11-23 19:49:15,840 views 35808 29932 New Course  Create
+INFO 2023-11-23 19:49:15,843 views 35808 29932 New User Create
+INFO 2023-11-23 19:49:15,843 views 35808 29932 New Department Create
+INFO 2023-11-23 19:49:15,843 views 35808 29932 New Student create
+INFO 2023-11-23 19:49:15,843 views 35808 29932 Attendence log list
+INFO 2023-11-23 19:49:15,843 views 35808 29932 Course List 
+INFO 2023-11-23 19:49:15,843 views 35808 29932 User List 
+INFO 2023-11-23 19:49:15,843 views 35808 29932 Department List 
+INFO 2023-11-23 19:49:15,843 views 35808 29932 Student List 
+INFO 2023-11-23 19:49:15,843 views 35808 29932 Attendence log with this is id update 
+INFO 2023-11-23 19:49:15,848 views 35808 29932 Course  with this is id update 
+INFO 2023-11-23 19:49:15,848 views 35808 29932 User  with this is id update 
+WARNING 2023-11-23 19:49:15,888 log 35808 29932 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:49:16,585 log 35808 29932 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 19:50:22,142 signals 36776 31472 Admin Created  with  password: 123
+INFO 2023-11-23 19:50:22,194 views 36776 31472 Attendence log view create
+INFO 2023-11-23 19:50:22,194 views 36776 31472 New Course  Create
+INFO 2023-11-23 19:50:22,197 views 36776 31472 New User Create
+INFO 2023-11-23 19:50:22,197 views 36776 31472 New Department Create
+INFO 2023-11-23 19:50:22,198 views 36776 31472 New Student create
+INFO 2023-11-23 19:50:22,198 views 36776 31472 Attendence log list
+INFO 2023-11-23 19:50:22,198 views 36776 31472 Course List 
+INFO 2023-11-23 19:50:22,198 views 36776 31472 User List 
+INFO 2023-11-23 19:50:22,199 views 36776 31472 Department List 
+INFO 2023-11-23 19:50:22,199 views 36776 31472 Student List 
+INFO 2023-11-23 19:50:22,200 views 36776 31472 Attendence log with this is id update 
+INFO 2023-11-23 19:50:22,200 views 36776 31472 Course  with this is id update 
+INFO 2023-11-23 19:50:22,200 views 36776 31472 User  with this is id update 
+WARNING 2023-11-23 19:50:22,252 log 36776 31472 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:50:23,098 log 36776 31472 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 19:52:37,269 signals 4092 28916 Admin Created  with  password: 123
+INFO 2023-11-23 19:52:37,305 views 4092 28916 Attendence log view create
+INFO 2023-11-23 19:52:37,305 views 4092 28916 New Course  Create
+INFO 2023-11-23 19:52:37,305 views 4092 28916 New User Create
+INFO 2023-11-23 19:52:37,314 views 4092 28916 New Department Create
+INFO 2023-11-23 19:52:37,314 views 4092 28916 New Student create
+INFO 2023-11-23 19:52:37,314 views 4092 28916 Attendence log list
+INFO 2023-11-23 19:52:37,314 views 4092 28916 Course List 
+INFO 2023-11-23 19:52:37,314 views 4092 28916 User List 
+INFO 2023-11-23 19:52:37,314 views 4092 28916 Department List 
+INFO 2023-11-23 19:52:37,314 views 4092 28916 Student List 
+INFO 2023-11-23 19:52:37,314 views 4092 28916 Attendence log with this is id update 
+INFO 2023-11-23 19:52:37,314 views 4092 28916 Course  with this is id update 
+INFO 2023-11-23 19:52:37,314 views 4092 28916 User  with this is id update 
+WARNING 2023-11-23 19:52:37,355 log 4092 28916 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:52:38,055 log 4092 28916 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 19:52:58,591 signals 22552 21892 Admin Created  with  password: 123
+INFO 2023-11-23 19:52:58,629 views 22552 21892 Attendence log view create
+INFO 2023-11-23 19:52:58,629 views 22552 21892 New Course  Create
+INFO 2023-11-23 19:52:58,629 views 22552 21892 New User Create
+INFO 2023-11-23 19:52:58,629 views 22552 21892 New Department Create
+INFO 2023-11-23 19:52:58,629 views 22552 21892 New Student create
+INFO 2023-11-23 19:52:58,629 views 22552 21892 Attendence log list
+INFO 2023-11-23 19:52:58,629 views 22552 21892 Course List 
+INFO 2023-11-23 19:52:58,629 views 22552 21892 User List 
+INFO 2023-11-23 19:52:58,638 views 22552 21892 Department List 
+INFO 2023-11-23 19:52:58,638 views 22552 21892 Student List 
+INFO 2023-11-23 19:52:58,639 views 22552 21892 Attendence log with this is id update 
+INFO 2023-11-23 19:52:58,639 views 22552 21892 Course  with this is id update 
+INFO 2023-11-23 19:52:58,639 views 22552 21892 User  with this is id update 
+WARNING 2023-11-23 19:52:58,680 log 22552 21892 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:52:59,391 log 22552 21892 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 19:53:46,253 signals 33640 7836 Admin Created  with  password: 123
+INFO 2023-11-23 19:53:46,284 views 33640 7836 Attendence log view create
+INFO 2023-11-23 19:53:46,292 views 33640 7836 New Course  Create
+INFO 2023-11-23 19:53:46,292 views 33640 7836 New User Create
+INFO 2023-11-23 19:53:46,292 views 33640 7836 New Department Create
+INFO 2023-11-23 19:53:46,292 views 33640 7836 New Student create
+INFO 2023-11-23 19:53:46,292 views 33640 7836 Attendence log list
+INFO 2023-11-23 19:53:46,292 views 33640 7836 Course List 
+INFO 2023-11-23 19:53:46,292 views 33640 7836 User List 
+INFO 2023-11-23 19:53:46,292 views 33640 7836 Department List 
+INFO 2023-11-23 19:53:46,292 views 33640 7836 Student List 
+INFO 2023-11-23 19:53:46,297 views 33640 7836 Attendence log with this is id update 
+INFO 2023-11-23 19:53:46,297 views 33640 7836 Course  with this is id update 
+INFO 2023-11-23 19:53:46,298 views 33640 7836 User  with this is id update 
+WARNING 2023-11-23 19:53:46,337 log 33640 7836 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:53:47,017 log 33640 7836 Bad Request: /api/attendnce_log_update/1
+WARNING 2023-11-23 19:54:28,772 log 38020 27604 Bad Request: /api/attendnce_log_update/2
+WARNING 2023-11-23 19:54:28,779 basehttp 38020 27604 "PUT /api/attendnce_log_update/2 HTTP/1.1" 400 54
+INFO 2023-11-23 19:54:37,868 signals 38360 7056 Admin Created  with  password: 123
+INFO 2023-11-23 19:54:37,915 views 38360 7056 Attendence log view create
+INFO 2023-11-23 19:54:37,915 views 38360 7056 New Course  Create
+INFO 2023-11-23 19:54:37,915 views 38360 7056 New User Create
+INFO 2023-11-23 19:54:37,915 views 38360 7056 New Department Create
+INFO 2023-11-23 19:54:37,915 views 38360 7056 New Student create
+INFO 2023-11-23 19:54:37,915 views 38360 7056 Attendence log list
+INFO 2023-11-23 19:54:37,915 views 38360 7056 Course List 
+INFO 2023-11-23 19:54:37,915 views 38360 7056 User List 
+INFO 2023-11-23 19:54:37,915 views 38360 7056 Department List 
+INFO 2023-11-23 19:54:37,915 views 38360 7056 Student List 
+INFO 2023-11-23 19:54:37,915 views 38360 7056 Attendence log with this is id update 
+INFO 2023-11-23 19:54:37,915 views 38360 7056 Course  with this is id update 
+INFO 2023-11-23 19:54:37,915 views 38360 7056 User  with this is id update 
+WARNING 2023-11-23 19:54:37,962 log 38360 7056 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:54:38,658 log 38360 7056 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 19:54:56,717 signals 38528 39864 Admin Created  with  password: 123
+INFO 2023-11-23 19:54:56,759 views 38528 39864 Attendence log view create
+INFO 2023-11-23 19:54:56,759 views 38528 39864 New Course  Create
+INFO 2023-11-23 19:54:56,771 views 38528 39864 New User Create
+INFO 2023-11-23 19:54:56,771 views 38528 39864 New Department Create
+INFO 2023-11-23 19:54:56,771 views 38528 39864 New Student create
+INFO 2023-11-23 19:54:56,775 views 38528 39864 Attendence log list
+INFO 2023-11-23 19:54:56,775 views 38528 39864 Course List 
+INFO 2023-11-23 19:54:56,775 views 38528 39864 User List 
+INFO 2023-11-23 19:54:56,776 views 38528 39864 Department List 
+INFO 2023-11-23 19:54:56,776 views 38528 39864 Student List 
+INFO 2023-11-23 19:54:56,776 views 38528 39864 Attendence log with this is id update 
+INFO 2023-11-23 19:54:56,776 views 38528 39864 Course  with this is id update 
+INFO 2023-11-23 19:54:56,776 views 38528 39864 User  with this is id update 
+WARNING 2023-11-23 19:54:56,832 log 38528 39864 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:54:57,927 log 38528 39864 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 19:58:02,474 signals 7428 20648 Admin Created  with  password: 123
+INFO 2023-11-23 19:58:02,510 views 7428 20648 Attendence log view create
+INFO 2023-11-23 19:58:02,512 views 7428 20648 New Course  Create
+INFO 2023-11-23 19:58:02,512 views 7428 20648 New User Create
+INFO 2023-11-23 19:58:02,512 views 7428 20648 New Department Create
+INFO 2023-11-23 19:58:02,512 views 7428 20648 New Student create
+INFO 2023-11-23 19:58:02,512 views 7428 20648 Attendence log list
+INFO 2023-11-23 19:58:02,517 views 7428 20648 Course List 
+INFO 2023-11-23 19:58:02,517 views 7428 20648 User List 
+INFO 2023-11-23 19:58:02,518 views 7428 20648 Department List 
+INFO 2023-11-23 19:58:02,519 views 7428 20648 Student List 
+INFO 2023-11-23 19:58:02,519 views 7428 20648 Attendence log with this is id update 
+INFO 2023-11-23 19:58:02,519 views 7428 20648 Course  with this is id update 
+INFO 2023-11-23 19:58:02,520 views 7428 20648 User  with this is id update 
+WARNING 2023-11-23 19:58:02,564 log 7428 20648 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:58:03,193 log 7428 20648 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 19:58:39,689 basehttp 38020 27604 "PUT /api/attendnce_log_update/1 HTTP/1.1" 200 122
+INFO 2023-11-23 19:58:45,803 signals 29264 31460 Admin Created  with  password: 123
+INFO 2023-11-23 19:58:45,826 views 29264 31460 Attendence log view create
+INFO 2023-11-23 19:58:45,826 views 29264 31460 New Course  Create
+INFO 2023-11-23 19:58:45,826 views 29264 31460 New User Create
+INFO 2023-11-23 19:58:45,826 views 29264 31460 New Department Create
+INFO 2023-11-23 19:58:45,826 views 29264 31460 New Student create
+INFO 2023-11-23 19:58:45,826 views 29264 31460 Attendence log list
+INFO 2023-11-23 19:58:45,826 views 29264 31460 Course List 
+INFO 2023-11-23 19:58:45,826 views 29264 31460 User List 
+INFO 2023-11-23 19:58:45,842 views 29264 31460 Department List 
+INFO 2023-11-23 19:58:45,842 views 29264 31460 Student List 
+INFO 2023-11-23 19:58:45,842 views 29264 31460 Attendence log with this is id update 
+INFO 2023-11-23 19:58:45,842 views 29264 31460 Course  with this is id update 
+INFO 2023-11-23 19:58:45,842 views 29264 31460 User  with this is id update 
+WARNING 2023-11-23 19:58:45,874 log 29264 31460 Not Found: /api/attendence_list/
+WARNING 2023-11-23 19:58:46,524 log 29264 31460 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 19:59:59,866 signals 27748 38900 Admin Created  with  password: 123
+INFO 2023-11-23 19:59:59,889 views 27748 38900 Attendence log view create
+INFO 2023-11-23 19:59:59,889 views 27748 38900 New Course  Create
+INFO 2023-11-23 19:59:59,889 views 27748 38900 New User Create
+INFO 2023-11-23 19:59:59,900 views 27748 38900 New Department Create
+INFO 2023-11-23 19:59:59,901 views 27748 38900 New Student create
+INFO 2023-11-23 19:59:59,902 views 27748 38900 Attendence log list
+INFO 2023-11-23 19:59:59,903 views 27748 38900 Course List 
+INFO 2023-11-23 19:59:59,904 views 27748 38900 User List 
+INFO 2023-11-23 19:59:59,905 views 27748 38900 Department List 
+INFO 2023-11-23 19:59:59,905 views 27748 38900 Student List 
+INFO 2023-11-23 19:59:59,905 views 27748 38900 Attendence log with this is id update 
+INFO 2023-11-23 19:59:59,905 views 27748 38900 Course  with this is id update 
+INFO 2023-11-23 19:59:59,905 views 27748 38900 User  with this is id update 
+WARNING 2023-11-23 19:59:59,945 log 27748 38900 Not Found: /api/attendence_list/
+WARNING 2023-11-23 20:00:00,590 log 27748 38900 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 20:00:16,129 signals 38436 1528 Admin Created  with  password: 123
+INFO 2023-11-23 20:00:16,153 views 38436 1528 Attendence log view create
+INFO 2023-11-23 20:00:16,162 views 38436 1528 New Course  Create
+INFO 2023-11-23 20:00:16,163 views 38436 1528 New User Create
+INFO 2023-11-23 20:00:16,163 views 38436 1528 New Department Create
+INFO 2023-11-23 20:00:16,164 views 38436 1528 New Student create
+INFO 2023-11-23 20:00:16,164 views 38436 1528 Attendence log list
+INFO 2023-11-23 20:00:16,164 views 38436 1528 Course List 
+INFO 2023-11-23 20:00:16,165 views 38436 1528 User List 
+INFO 2023-11-23 20:00:16,165 views 38436 1528 Department List 
+INFO 2023-11-23 20:00:16,166 views 38436 1528 Student List 
+INFO 2023-11-23 20:00:16,167 views 38436 1528 Attendence log with this is id update 
+INFO 2023-11-23 20:00:16,168 views 38436 1528 Course  with this is id update 
+INFO 2023-11-23 20:00:16,168 views 38436 1528 User  with this is id update 
+WARNING 2023-11-23 20:00:16,212 log 38436 1528 Not Found: /api/attendence_list/
+WARNING 2023-11-23 20:00:16,827 log 38436 1528 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 20:06:59,296 signals 38280 22656 Admin Created  with  password: 123
+INFO 2023-11-23 20:06:59,332 views 38280 22656 Attendence log view create
+INFO 2023-11-23 20:06:59,334 views 38280 22656 New Course  Create
+INFO 2023-11-23 20:06:59,334 views 38280 22656 New User Create
+INFO 2023-11-23 20:06:59,335 views 38280 22656 New Department Create
+INFO 2023-11-23 20:06:59,336 views 38280 22656 New Student create
+INFO 2023-11-23 20:06:59,336 views 38280 22656 Attendence log list
+INFO 2023-11-23 20:06:59,337 views 38280 22656 Course List 
+INFO 2023-11-23 20:06:59,337 views 38280 22656 User List 
+INFO 2023-11-23 20:06:59,338 views 38280 22656 Department List 
+INFO 2023-11-23 20:06:59,338 views 38280 22656 Student List 
+INFO 2023-11-23 20:06:59,339 views 38280 22656 Attendence log with this is id update 
+INFO 2023-11-23 20:06:59,339 views 38280 22656 Course  with this is id update 
+INFO 2023-11-23 20:06:59,339 views 38280 22656 User  with this is id update 
+WARNING 2023-11-23 20:06:59,382 log 38280 22656 Not Found: /api/attendence_list/
+WARNING 2023-11-23 20:07:00,010 log 38280 22656 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 20:08:11,712 signals 29960 35716 Admin Created  with  password: 123
+INFO 2023-11-23 20:08:11,746 views 29960 35716 Attendence log view create
+INFO 2023-11-23 20:08:11,747 views 29960 35716 New Course  Create
+INFO 2023-11-23 20:08:11,748 views 29960 35716 New User Create
+INFO 2023-11-23 20:08:11,748 views 29960 35716 New Department Create
+INFO 2023-11-23 20:08:11,748 views 29960 35716 New Student create
+INFO 2023-11-23 20:08:11,748 views 29960 35716 Attendence log list
+INFO 2023-11-23 20:08:11,748 views 29960 35716 Course List 
+INFO 2023-11-23 20:08:11,748 views 29960 35716 User List 
+INFO 2023-11-23 20:08:11,748 views 29960 35716 Department List 
+INFO 2023-11-23 20:08:11,754 views 29960 35716 Student List 
+INFO 2023-11-23 20:08:11,754 views 29960 35716 Attendence log with this is id update 
+INFO 2023-11-23 20:08:11,755 views 29960 35716 Course  with this is id update 
+INFO 2023-11-23 20:08:11,755 views 29960 35716 User  with this is id update 
+WARNING 2023-11-23 20:08:11,798 log 29960 35716 Not Found: /api/attendence_list/
+WARNING 2023-11-23 20:08:12,439 log 29960 35716 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 20:08:39,259 signals 16708 34340 Admin Created  with  password: 123
+INFO 2023-11-23 20:08:39,288 views 16708 34340 Attendence log view create
+INFO 2023-11-23 20:08:39,288 views 16708 34340 New Course  Create
+INFO 2023-11-23 20:08:39,291 views 16708 34340 New User Create
+INFO 2023-11-23 20:08:39,291 views 16708 34340 New Department Create
+INFO 2023-11-23 20:08:39,296 views 16708 34340 New Student create
+INFO 2023-11-23 20:08:39,298 views 16708 34340 Attendence log list
+INFO 2023-11-23 20:08:39,299 views 16708 34340 Course List 
+INFO 2023-11-23 20:08:39,300 views 16708 34340 User List 
+INFO 2023-11-23 20:08:39,300 views 16708 34340 Department List 
+INFO 2023-11-23 20:08:39,301 views 16708 34340 Student List 
+INFO 2023-11-23 20:08:39,302 views 16708 34340 Attendence log with this is id update 
+INFO 2023-11-23 20:08:39,302 views 16708 34340 Course  with this is id update 
+INFO 2023-11-23 20:08:39,303 views 16708 34340 User  with this is id update 
+WARNING 2023-11-23 20:08:39,335 log 16708 34340 Not Found: /api/attendence_list/
+WARNING 2023-11-23 20:08:39,974 log 16708 34340 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 20:10:44,030 signals 39460 23484 Admin Created  with  password: 123
+INFO 2023-11-23 20:10:44,068 views 39460 23484 Attendence log view create
+INFO 2023-11-23 20:10:44,068 views 39460 23484 New Course  Create
+INFO 2023-11-23 20:10:44,068 views 39460 23484 New User Create
+INFO 2023-11-23 20:10:44,073 views 39460 23484 New Department Create
+INFO 2023-11-23 20:10:44,074 views 39460 23484 New Student create
+INFO 2023-11-23 20:10:44,075 views 39460 23484 Attendence log list
+INFO 2023-11-23 20:10:44,075 views 39460 23484 Course List 
+INFO 2023-11-23 20:10:44,076 views 39460 23484 User List 
+INFO 2023-11-23 20:10:44,076 views 39460 23484 Department List 
+INFO 2023-11-23 20:10:44,076 views 39460 23484 Student List 
+INFO 2023-11-23 20:10:44,077 views 39460 23484 Attendence log with this is id update 
+INFO 2023-11-23 20:10:44,077 views 39460 23484 Course  with this is id update 
+INFO 2023-11-23 20:10:44,078 views 39460 23484 User  with this is id update 
+WARNING 2023-11-23 20:10:44,118 log 39460 23484 Not Found: /api/attendence_list/
+WARNING 2023-11-23 20:10:44,746 log 39460 23484 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 20:12:05,783 signals 21432 38088 Admin Created  with  password: 123
+INFO 2023-11-23 20:12:05,810 views 21432 38088 Attendence log view create
+INFO 2023-11-23 20:12:05,810 views 21432 38088 New Course  Create
+INFO 2023-11-23 20:12:05,810 views 21432 38088 New User Create
+INFO 2023-11-23 20:12:05,818 views 21432 38088 New Department Create
+INFO 2023-11-23 20:12:05,818 views 21432 38088 New Student create
+INFO 2023-11-23 20:12:05,819 views 21432 38088 Attendence log list
+INFO 2023-11-23 20:12:05,819 views 21432 38088 Course List 
+INFO 2023-11-23 20:12:05,819 views 21432 38088 User List 
+INFO 2023-11-23 20:12:05,820 views 21432 38088 Department List 
+INFO 2023-11-23 20:12:05,820 views 21432 38088 Student List 
+INFO 2023-11-23 20:12:05,820 views 21432 38088 Attendence log with this is id update 
+INFO 2023-11-23 20:12:05,821 views 21432 38088 Course  with this is id update 
+INFO 2023-11-23 20:12:05,821 views 21432 38088 User  with this is id update 
+WARNING 2023-11-23 20:12:05,916 log 21432 38088 Not Found: /api/attendence_list/
+WARNING 2023-11-23 20:12:06,575 log 21432 38088 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 20:13:00,061 signals 26908 31808 Admin Created  with  password: 123
+INFO 2023-11-23 20:13:00,086 views 26908 31808 Attendence log view create
+INFO 2023-11-23 20:13:00,086 views 26908 31808 New Course  Create
+INFO 2023-11-23 20:13:00,093 views 26908 31808 New User Create
+INFO 2023-11-23 20:13:00,093 views 26908 31808 New Department Create
+INFO 2023-11-23 20:13:00,094 views 26908 31808 New Student create
+INFO 2023-11-23 20:13:00,095 views 26908 31808 Attendence log list
+INFO 2023-11-23 20:13:00,095 views 26908 31808 Course List 
+INFO 2023-11-23 20:13:00,096 views 26908 31808 User List 
+INFO 2023-11-23 20:13:00,096 views 26908 31808 Department List 
+INFO 2023-11-23 20:13:00,097 views 26908 31808 Student List 
+INFO 2023-11-23 20:13:00,097 views 26908 31808 Attendence log with this is id update 
+INFO 2023-11-23 20:13:00,098 views 26908 31808 Course  with this is id update 
+INFO 2023-11-23 20:13:00,099 views 26908 31808 User  with this is id update 
+WARNING 2023-11-23 20:13:00,133 log 26908 31808 Not Found: /api/attendence_list/
+WARNING 2023-11-23 20:13:00,762 log 26908 31808 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 20:13:21,581 basehttp 38020 27604 "PUT /api/attendnce_log_update/1 HTTP/1.1" 200 122
+INFO 2023-11-23 20:13:28,287 basehttp 38020 27604 "PUT /api/attendnce_log_update/1 HTTP/1.1" 200 122
+INFO 2023-11-23 20:15:13,636 signals 39036 37176 Admin Created  with  password: 123
+INFO 2023-11-23 20:15:13,672 views 39036 37176 Attendence log view create
+INFO 2023-11-23 20:15:13,672 views 39036 37176 New Course  Create
+INFO 2023-11-23 20:15:13,672 views 39036 37176 New User Create
+INFO 2023-11-23 20:15:13,672 views 39036 37176 New Department Create
+INFO 2023-11-23 20:15:13,672 views 39036 37176 New Student create
+INFO 2023-11-23 20:15:13,672 views 39036 37176 Attendence log list
+INFO 2023-11-23 20:15:13,672 views 39036 37176 Course List 
+INFO 2023-11-23 20:15:13,672 views 39036 37176 User List 
+INFO 2023-11-23 20:15:13,672 views 39036 37176 Department List 
+INFO 2023-11-23 20:15:13,672 views 39036 37176 Student List 
+INFO 2023-11-23 20:15:13,672 views 39036 37176 Attendence log with this is id update 
+INFO 2023-11-23 20:15:13,672 views 39036 37176 Course  with this is id update 
+INFO 2023-11-23 20:15:13,679 views 39036 37176 User  with this is id update 
+WARNING 2023-11-23 20:15:13,723 log 39036 37176 Not Found: /api/attendence_list/
+WARNING 2023-11-23 20:15:14,330 log 39036 37176 Bad Request: /api/attendnce_log_update/1
+INFO 2023-11-23 20:19:29,853 signals 20220 35360 Admin Created  with  password: 123
+INFO 2023-11-23 20:19:29,891 views 20220 35360 Attendence log view create
+INFO 2023-11-23 20:19:29,891 views 20220 35360 New Course  Create
+INFO 2023-11-23 20:19:29,897 views 20220 35360 New User Create
+INFO 2023-11-23 20:19:29,897 views 20220 35360 New Department Create
+INFO 2023-11-23 20:19:29,897 views 20220 35360 New Student create
+INFO 2023-11-23 20:19:29,898 views 20220 35360 Attendence log list
+INFO 2023-11-23 20:19:29,898 views 20220 35360 Course List 
+INFO 2023-11-23 20:19:29,899 views 20220 35360 User List 
+INFO 2023-11-23 20:19:29,899 views 20220 35360 Department List 
+INFO 2023-11-23 20:19:29,900 views 20220 35360 Student List 
+INFO 2023-11-23 20:19:29,900 views 20220 35360 Attendence log with this is id update 
+INFO 2023-11-23 20:19:29,901 views 20220 35360 Course  with this is id update 
+INFO 2023-11-23 20:19:29,901 views 20220 35360 User  with this is id update 
+WARNING 2023-11-23 20:19:29,938 log 20220 35360 Not Found: /api/attendence_list/
+INFO 2023-11-23 20:19:32,435 signals 20220 35360 Admin Created  with  password: 123
+WARNING 2023-11-23 20:19:32,462 log 20220 35360 Not Found: /api/attendence_list/
+INFO 2023-11-23 20:20:04,638 signals 14488 10764 Admin Created  with  password: 123
+INFO 2023-11-23 20:20:04,672 views 14488 10764 Attendence log view create
+INFO 2023-11-23 20:20:04,676 views 14488 10764 New Course  Create
+INFO 2023-11-23 20:20:04,677 views 14488 10764 New User Create
+INFO 2023-11-23 20:20:04,678 views 14488 10764 New Department Create
+INFO 2023-11-23 20:20:04,678 views 14488 10764 New Student create
+INFO 2023-11-23 20:20:04,679 views 14488 10764 Attendence log list
+INFO 2023-11-23 20:20:04,679 views 14488 10764 Course List 
+INFO 2023-11-23 20:20:04,680 views 14488 10764 User List 
+INFO 2023-11-23 20:20:04,680 views 14488 10764 Department List 
+INFO 2023-11-23 20:20:04,680 views 14488 10764 Student List 
+INFO 2023-11-23 20:20:04,681 views 14488 10764 Attendence log with this is id update 
+INFO 2023-11-23 20:20:04,681 views 14488 10764 Course  with this is id update 
+INFO 2023-11-23 20:20:04,682 views 14488 10764 User  with this is id update 
+WARNING 2023-11-23 20:20:04,723 log 14488 10764 Not Found: /api/attendence_list/
+INFO 2023-11-23 20:20:07,268 signals 14488 10764 Admin Created  with  password: 123
+WARNING 2023-11-23 20:20:07,288 log 14488 10764 Not Found: /api/attendence_list/
+INFO 2023-11-23 20:20:25,176 signals 23028 37288 Admin Created  with  password: 123
+INFO 2023-11-23 20:20:25,214 views 23028 37288 Attendence log view create
+INFO 2023-11-23 20:20:25,214 views 23028 37288 New Course  Create
+INFO 2023-11-23 20:20:25,214 views 23028 37288 New User Create
+INFO 2023-11-23 20:20:25,220 views 23028 37288 New Department Create
+INFO 2023-11-23 20:20:25,220 views 23028 37288 New Student create
+INFO 2023-11-23 20:20:25,221 views 23028 37288 Attendence log list
+INFO 2023-11-23 20:20:25,221 views 23028 37288 Course List 
+INFO 2023-11-23 20:20:25,222 views 23028 37288 User List 
+INFO 2023-11-23 20:20:25,222 views 23028 37288 Department List 
+INFO 2023-11-23 20:20:25,223 views 23028 37288 Student List 
+INFO 2023-11-23 20:20:25,223 views 23028 37288 Attendence log with this is id update 
+INFO 2023-11-23 20:20:25,224 views 23028 37288 Course  with this is id update 
+INFO 2023-11-23 20:20:25,224 views 23028 37288 User  with this is id update 
+WARNING 2023-11-23 20:20:25,268 log 23028 37288 Not Found: /api/attendence_list/
+WARNING 2023-11-23 20:20:25,895 log 23028 37288 Not Found: /api/attendnce_log_update/None
+INFO 2023-11-23 20:20:48,217 signals 32068 35788 Admin Created  with  password: 123
+INFO 2023-11-23 20:20:48,242 views 32068 35788 Attendence log view create
+INFO 2023-11-23 20:20:48,242 views 32068 35788 New Course  Create
+INFO 2023-11-23 20:20:48,242 views 32068 35788 New User Create
+INFO 2023-11-23 20:20:48,246 views 32068 35788 New Department Create
+INFO 2023-11-23 20:20:48,250 views 32068 35788 New Student create
+INFO 2023-11-23 20:20:48,252 views 32068 35788 Attendence log list
+INFO 2023-11-23 20:20:48,252 views 32068 35788 Course List 
+INFO 2023-11-23 20:20:48,253 views 32068 35788 User List 
+INFO 2023-11-23 20:20:48,253 views 32068 35788 Department List 
+INFO 2023-11-23 20:20:48,253 views 32068 35788 Student List 
+INFO 2023-11-23 20:20:48,254 views 32068 35788 Attendence log with this is id update 
+INFO 2023-11-23 20:20:48,254 views 32068 35788 Course  with this is id update 
+INFO 2023-11-23 20:20:48,254 views 32068 35788 User  with this is id update 
+WARNING 2023-11-23 20:20:48,297 log 32068 35788 Not Found: /api/attendence_list/
+INFO 2023-11-23 20:20:50,763 signals 32068 35788 Admin Created  with  password: 123
+WARNING 2023-11-23 20:20:50,794 log 32068 35788 Not Found: /api/attendence_list/
+INFO 2023-11-23 20:24:04,273 signals 28712 13192 Admin Created  with  password: 123
+INFO 2023-11-23 20:24:04,307 views 28712 13192 Attendence log view create
+INFO 2023-11-23 20:24:04,310 views 28712 13192 New Course  Create
+INFO 2023-11-23 20:24:04,310 views 28712 13192 New User Create
+INFO 2023-11-23 20:24:04,311 views 28712 13192 New Department Create
+INFO 2023-11-23 20:24:04,311 views 28712 13192 New Student create
+INFO 2023-11-23 20:24:04,311 views 28712 13192 Attendence log list
+INFO 2023-11-23 20:24:04,311 views 28712 13192 Course List 
+INFO 2023-11-23 20:24:04,311 views 28712 13192 User List 
+INFO 2023-11-23 20:24:04,311 views 28712 13192 Department List 
+INFO 2023-11-23 20:24:04,311 views 28712 13192 Student List 
+INFO 2023-11-23 20:24:04,311 views 28712 13192 Attendence log with this is id update 
+INFO 2023-11-23 20:24:04,311 views 28712 13192 Course  with this is id update 
+INFO 2023-11-23 20:24:04,311 views 28712 13192 User  with this is id update 
+WARNING 2023-11-23 20:24:04,360 log 28712 13192 Not Found: /api/attendence_list/
+INFO 2023-11-23 20:24:06,716 signals 28712 13192 Admin Created  with  password: 123
+WARNING 2023-11-23 20:24:06,737 log 28712 13192 Not Found: /api/attendence_list/
+INFO 2023-11-23 20:24:51,544 signals 20172 22384 Admin Created  with  password: 123
+INFO 2023-11-23 20:24:51,565 views 20172 22384 Attendence log view create
+INFO 2023-11-23 20:24:51,577 views 20172 22384 New Course  Create
+INFO 2023-11-23 20:24:51,578 views 20172 22384 New User Create
+INFO 2023-11-23 20:24:51,580 views 20172 22384 New Department Create
+INFO 2023-11-23 20:24:51,580 views 20172 22384 New Student create
+INFO 2023-11-23 20:24:51,580 views 20172 22384 Attendence log list
+INFO 2023-11-23 20:24:51,581 views 20172 22384 Course List 
+INFO 2023-11-23 20:24:51,581 views 20172 22384 User List 
+INFO 2023-11-23 20:24:51,581 views 20172 22384 Department List 
+INFO 2023-11-23 20:24:51,581 views 20172 22384 Student List 
+INFO 2023-11-23 20:24:51,582 views 20172 22384 Attendence log with this is id update 
+INFO 2023-11-23 20:24:51,582 views 20172 22384 Course  with this is id update 
+INFO 2023-11-23 20:24:51,582 views 20172 22384 User  with this is id update 
+WARNING 2023-11-23 20:24:51,620 log 20172 22384 Not Found: /api/attendence_list/
+INFO 2023-11-23 20:24:53,976 signals 20172 22384 Admin Created  with  password: 123
+WARNING 2023-11-23 20:24:53,999 log 20172 22384 Not Found: /api/attendence_list/
+INFO 2023-11-23 20:28:03,991 autoreload 38020 33944 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
+INFO 2023-11-23 20:28:04,633 autoreload 39884 39328 Watching for file changes with StatReloader
+INFO 2023-11-23 20:28:04,732 views 39884 39328 Attendence log view create
+INFO 2023-11-23 20:28:04,732 views 39884 39328 New Course  Create
+INFO 2023-11-23 20:28:04,732 views 39884 39328 New User Create
+INFO 2023-11-23 20:28:04,732 views 39884 39328 New Department Create
+INFO 2023-11-23 20:28:04,732 views 39884 39328 New Student create
+INFO 2023-11-23 20:28:04,732 views 39884 39328 Attendence log list
+INFO 2023-11-23 20:28:04,732 views 39884 39328 Course List 
+INFO 2023-11-23 20:28:04,747 views 39884 39328 User List 
+INFO 2023-11-23 20:28:04,747 views 39884 39328 Department List 
+INFO 2023-11-23 20:28:04,748 views 39884 39328 Student List 
+INFO 2023-11-23 20:28:04,748 views 39884 39328 Attendence log with this is id update 
+INFO 2023-11-23 20:28:04,750 views 39884 39328 Course  with this is id update 
+INFO 2023-11-23 20:28:04,750 views 39884 39328 User  with this is id update 
