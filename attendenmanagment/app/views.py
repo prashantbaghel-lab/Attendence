@@ -623,7 +623,7 @@ class Student__Update_view(generics.UpdateAPIView):
     queryset=Student.objects.all()
     serializer_class=Students_serializer
     lookup_field="id"
-     def update(self, request, *args, **kwargs):
+    def update(self, request, *args, **kwargs):
         """
         Update an existing student.
 

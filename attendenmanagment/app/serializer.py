@@ -12,6 +12,7 @@ class Attendence_serializer(serializers.ModelSerializer):
         if request.method == "POST":
 
             def validate(self, data):
+                
                 # user = data['user']
                 exit_id = data.get('id')
 

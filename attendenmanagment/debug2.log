@@ -1612,3 +1612,72 @@ INFO 2023-11-24 13:18:53,201 autoreload 33340 22184 C:\Users\prash\Desktop\djang
 INFO 2023-11-24 13:18:53,238 autoreload 39452 6012 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\views.py changed, reloading.
 INFO 2023-11-24 13:18:53,881 autoreload 39112 37288 Watching for file changes with StatReloader
 INFO 2023-11-24 13:18:53,881 autoreload 22116 22760 Watching for file changes with StatReloader
+INFO 2023-11-24 13:26:26,024 autoreload 22116 22760 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\signals.py changed, reloading.
+INFO 2023-11-24 13:26:26,051 autoreload 39112 37288 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\signals.py changed, reloading.
+INFO 2023-11-24 13:26:26,777 autoreload 7836 8684 Watching for file changes with StatReloader
+INFO 2023-11-24 13:26:26,789 autoreload 37072 20776 Watching for file changes with StatReloader
+INFO 2023-11-24 13:34:29,718 autoreload 7836 8684 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\models.py changed, reloading.
+INFO 2023-11-24 13:34:29,733 autoreload 37072 20776 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\models.py changed, reloading.
+INFO 2023-11-24 13:34:30,500 autoreload 39024 12312 Watching for file changes with StatReloader
+INFO 2023-11-24 13:34:30,508 autoreload 13952 26384 Watching for file changes with StatReloader
+INFO 2023-11-24 13:34:48,392 autoreload 13952 26384 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\models.py changed, reloading.
+INFO 2023-11-24 13:34:48,974 autoreload 1348 7068 Watching for file changes with StatReloader
+INFO 2023-11-24 13:34:49,112 autoreload 39024 12312 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\models.py changed, reloading.
+INFO 2023-11-24 13:34:49,912 autoreload 39492 21484 Watching for file changes with StatReloader
+INFO 2023-11-24 13:34:59,428 autoreload 39492 21484 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\models.py changed, reloading.
+INFO 2023-11-24 13:34:59,600 autoreload 1348 7068 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\models.py changed, reloading.
+INFO 2023-11-24 13:35:00,254 autoreload 26252 28536 Watching for file changes with StatReloader
+INFO 2023-11-24 13:35:00,329 autoreload 37868 34900 Watching for file changes with StatReloader
+INFO 2023-11-24 13:35:37,567 autoreload 37868 34900 Watching for file changes with StatReloader
+INFO 2023-11-24 13:35:47,445 autoreload 7664 19612 Watching for file changes with StatReloader
+INFO 2023-11-24 13:37:03,259 autoreload 7664 19612 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\models.py changed, reloading.
+INFO 2023-11-24 13:37:03,282 autoreload 26252 28536 C:\Users\prash\Desktop\django_neww\attendenmanagment\app\models.py changed, reloading.
+INFO 2023-11-24 13:37:03,973 autoreload 39916 18012 Watching for file changes with StatReloader
+INFO 2023-11-24 13:37:04,011 autoreload 33432 26500 Watching for file changes with StatReloader
+INFO 2023-11-24 13:37:33,610 autoreload 39916 18012 C:\Users\prash\Desktop\django_neww\attendenmanagment\attendenmanagment\settings.py changed, reloading.
+INFO 2023-11-24 13:37:33,625 autoreload 33432 26500 C:\Users\prash\Desktop\django_neww\attendenmanagment\attendenmanagment\settings.py changed, reloading.
+INFO 2023-11-24 13:44:32,856 autoreload 31216 39528 Watching for file changes with StatReloader
+INFO 2023-11-24 13:44:32,968 views 31216 39528 Attendence log view create
+INFO 2023-11-24 13:44:32,968 views 31216 39528 New Course  Create
+INFO 2023-11-24 13:44:32,968 views 31216 39528 New User Create
+INFO 2023-11-24 13:44:32,968 views 31216 39528 New Department Create
+INFO 2023-11-24 13:44:32,968 views 31216 39528 New Student create
+INFO 2023-11-24 13:44:32,968 views 31216 39528 Attendence log list
+INFO 2023-11-24 13:44:32,968 views 31216 39528 Course List 
+INFO 2023-11-24 13:44:32,968 views 31216 39528 User List 
+INFO 2023-11-24 13:44:32,968 views 31216 39528 Department List 
+INFO 2023-11-24 13:44:32,968 views 31216 39528 Student List 
+INFO 2023-11-24 13:44:32,968 views 31216 39528 Attendence log with this is id update 
+INFO 2023-11-24 13:44:32,968 views 31216 39528 Course  with this is id update 
+INFO 2023-11-24 13:44:32,968 views 31216 39528 User  with this is id update 
+INFO 2023-11-24 13:44:33,221 autoreload 13024 8492 Watching for file changes with StatReloader
+INFO 2023-11-24 13:44:33,477 views 13024 8492 Attendence log view create
+INFO 2023-11-24 13:44:33,477 views 13024 8492 New Course  Create
+INFO 2023-11-24 13:44:33,477 views 13024 8492 New User Create
+INFO 2023-11-24 13:44:33,477 views 13024 8492 New Department Create
+INFO 2023-11-24 13:44:33,477 views 13024 8492 New Student create
+INFO 2023-11-24 13:44:33,477 views 13024 8492 Attendence log list
+INFO 2023-11-24 13:44:33,482 views 13024 8492 Course List 
+INFO 2023-11-24 13:44:33,482 views 13024 8492 User List 
+INFO 2023-11-24 13:44:33,482 views 13024 8492 Department List 
+INFO 2023-11-24 13:44:33,482 views 13024 8492 Student List 
+INFO 2023-11-24 13:44:33,482 views 13024 8492 Attendence log with this is id update 
+INFO 2023-11-24 13:44:33,482 views 13024 8492 Course  with this is id update 
+INFO 2023-11-24 13:44:33,482 views 13024 8492 User  with this is id update 
+INFO 2023-11-24 13:45:54,519 autoreload 13024 8492 Watching for file changes with StatReloader
+INFO 2023-11-24 13:46:09,837 autoreload 39848 20896 Watching for file changes with StatReloader
+INFO 2023-11-24 13:46:09,987 views 39848 20896 Attendence log view create
+INFO 2023-11-24 13:46:09,987 views 39848 20896 New Course  Create
+INFO 2023-11-24 13:46:09,996 views 39848 20896 New User Create
+INFO 2023-11-24 13:46:09,997 views 39848 20896 New Department Create
+INFO 2023-11-24 13:46:09,997 views 39848 20896 New Student create
+INFO 2023-11-24 13:46:09,997 views 39848 20896 Attendence log list
+INFO 2023-11-24 13:46:09,997 views 39848 20896 Course List 
+INFO 2023-11-24 13:46:09,997 views 39848 20896 User List 
+INFO 2023-11-24 13:46:09,997 views 39848 20896 Department List 
+INFO 2023-11-24 13:46:09,997 views 39848 20896 Student List 
+INFO 2023-11-24 13:46:10,001 views 39848 20896 Attendence log with this is id update 
+INFO 2023-11-24 13:46:10,001 views 39848 20896 Course  with this is id update 
+INFO 2023-11-24 13:46:10,001 views 39848 20896 User  with this is id update 
+INFO 2023-11-24 13:46:33,325 basehttp 31216 18300 "POST /api/attendence_log_create/ HTTP/1.1" 201 122
+INFO 2023-11-24 13:47:34,136 autoreload 39848 20896 Watching for file changes with StatReloader
