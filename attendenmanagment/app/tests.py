@@ -10,12 +10,37 @@ from django.contrib.auth.models import User
 
 
 class AttendenceLogViewTestCase(TestCase):
+    """
+    Test case for the AttendenceLogView API.
+
+    Methods:
+        - setUp: Prepare necessary resources and configurations for the tests.
+        - test_create_attendence_log: Test creating an attendence log via API.
+    """
     def setUp(self):
+        """
+        Set up the test case.
+
+        - Initializes an API client for making requests.
+        - Retrieves or creates a superuser for authentication purposes.
+        """
         self.client = APIClient()
         # Retrieve or create a superuser
         self.existing_superuser = User.objects.get(username='admin')
         
     def test_create_attendence_log(self):
+        """
+        Test creating an attendence log via the API.
+
+        - Defines the URL for creating attendence logs.
+        - Defines the data for creating an attendence log.
+        - Authenticates with the API using superuser credentials.
+        - Sends a POST request to create an attendence log.
+        - Prints request and response details for debugging.
+        - Asserts that the status code is HTTP 201 Created.
+        - Retrieves the created attendence log from the database.
+        - Asserts that the attendence log attributes match the provided data.
+        """
         url ='http://127.0.0.1:8000/api/attendence_log_create/'
 
         data = {
@@ -45,12 +70,38 @@ class AttendenceLogViewTestCase(TestCase):
 
 
 class CourseViewTestCase(TestCase):
+    """
+    Test case for the CourseView API.
+
+    Methods:
+        - setUp: Prepare necessary resources and configurations for the tests.
+        - test_create_course: Test creating a course via API.
+    """
     def setUp(self):
+        """
+        Set up the test case.
+
+        - Initializes an API client for making requests.
+        - Retrieves or creates a superuser for authentication purposes.
+        """
         self.client = APIClient()
         # Retrieve or create a superuser
         self.existing_superuser = User.objects.get(username='admin')
         
     def test_create_course(self):
+        """
+        Test creating a course via the API.
+
+        - Creates an Attendence_log object for testing.
+        - Defines the URL for creating courses.
+        - Defines the data for creating a course.
+        - Authenticates with the API using superuser credentials.
+        - Sends a POST request to create a course.
+        - Prints request and response details for debugging.
+        - Asserts that the status code is HTTP 201 Created.
+        - Retrieves the created course from the database.
+        - Asserts that the course attributes match the provided data.
+        """
         attendence_log = Attendence_log.objects.create(id=1, Student_id=1, course_id=1, present='Yes', submitted_by='student1')
         url ='http://127.0.0.1:8000/api/course_create/'
 
@@ -84,12 +135,38 @@ class CourseViewTestCase(TestCase):
         
 
 class UserViewTestCase(TestCase):
+    """
+    Test case for the UserView API.
+
+    Methods:
+        - setUp: Prepare necessary resources and configurations for the tests.
+        - test_create_user: Test creating a user via API.
+    """
     def setUp(self):
+        """
+        Set up the test case.
+
+        - Initializes an API client for making requests.
+        - Retrieves or creates a superuser for authentication purposes.
+        """
         self.client = APIClient()
         # Retrieve or create a superuser
         self.existing_superuser = User.objects.get(username='admin')
         
     def test_create_course(self):
+        """
+        Test creating a user via the API.
+
+        - Creates an Attendence_log object for testing.
+        - Defines the URL for creating users.
+        - Defines the data for creating a user.
+        - Authenticates with the API using superuser credentials.
+        - Sends a POST request to create a user.
+        - Prints request and response details for debugging.
+        - Asserts that the status code is HTTP 201 Created.
+        - Retrieves the created user from the database.
+        - Asserts that the user attributes match the provided data.
+        """
         attendence_log = Attendence_log.objects.create(id=1, Student_id=1, course_id=1, present='Yes', submitted_by='student1')
         
 
@@ -121,12 +198,38 @@ class UserViewTestCase(TestCase):
         
 
 class StudentViewTestCase(TestCase):
+    """
+    Test case for the StudentView API.
+
+    Methods:
+        - setUp: Prepare necessary resources and configurations for the tests.
+        - test_create_student: Test creating a student via API.
+    """
     def setUp(self):
+        """
+        Set up the test case.
+
+        - Initializes an API client for making requests.
+        - Retrieves or creates a superuser for authentication purposes.
+        """
         self.client = APIClient()
         # Retrieve or create a superuser
         self.existing_superuser = User.objects.get(username='admin')
         
     def test_create_course(self):
+        """
+        Test creating a student via the API.
+
+        - Creates an Attendence_log object for testing.
+        - Defines the URL for creating students.
+        - Defines the data for creating a student.
+        - Authenticates with the API using superuser credentials.
+        - Sends a POST request to create a student.
+        - Prints request and response details for debugging.
+        - Asserts that the status code is HTTP 201 Created.
+        - Retrieves the created student from the database.
+        - Asserts that the student attributes match the provided data.
+        """
         attendence_log = Attendence_log.objects.create(id=1, Student_id=1, course_id=1, present='Yes', submitted_by='student1')
         
 
@@ -159,7 +262,22 @@ class StudentViewTestCase(TestCase):
 
 
 class AttendenceListViewTestCase(TestCase):
+    """
+    Test case for the AttendenceListView API.
+
+    Methods:
+        - setUp: Prepare necessary resources and configurations for the tests.
+        - test_list_attendence_logs: Test listing attendence logs via the API.
+        - test_empty_attendence_logs: Test listing attendence logs when there are none.
+    """
     def setUp(self):
+        """
+        Set up the test case.
+
+        - Initializes an API client for making requests.
+        - Retrieves or creates a superuser for authentication purposes.
+        - Creates some Attendence_log instances for testing.
+        """
         self.client = APIClient()
         self.existing_superuser = User.objects.get(username='admin')
         # Create some Attendence_log instances for testing
@@ -167,6 +285,15 @@ class AttendenceListViewTestCase(TestCase):
         Attendence_log.objects.create(Student_id=2, course_id=2, present='No', submitted_by='student2')
 
     def test_list_attendence_logs(self):
+        """
+        Test listing attendence logs via the API.
+
+        - Defines the URL for listing attendence logs.
+        - Authenticates with the API using superuser credentials.
+        - Sends a GET request to list attendence logs.
+        - Asserts that the status code is HTTP 200 OK.
+        - Checks if the response contains the expected number of items.
+        """
 
         url = 'http://127.0.0.1:8000/api/attendence_list/'  #  URL
         
@@ -184,9 +311,15 @@ class AttendenceListViewTestCase(TestCase):
         
 
     def test_empty_attendence_logs(self):
-        # Test case when there are no Attendence_log instances
+        """
+        Test case when there are no Attendence_log instances.
 
-        # Clear existing Attendence_log instances
+        - Clears existing Attendence_log instances.
+        - Defines the URL for listing attendence logs.
+        - Sends a GET request to list attendence logs.
+        - Asserts that the status code is HTTP 404 NOT FOUND.
+        """
+
         Attendence_log.objects.all().delete()
 
         url = 'http://127.0.0.1:8000/api/attendence_list/'  # Replace with your actual URL
@@ -199,11 +332,36 @@ class AttendenceListViewTestCase(TestCase):
 
 
 class AttendenceLogUpdateViewTestCase(TestCase):
+    """
+    Test case for the AttendenceLogUpdateView API.
+
+    Methods:
+        - setUp: Prepare necessary resources and configurations for the tests.
+        - test_update_attendence_log: Test updating an attendence log via API.
+    """
     def setUp(self):
-        # Create an Attendence_log instance for testing
+        """
+        Set up the test case.
+
+        - Creates an Attendence_log instance for testing.
+        """
+        
         self.attendence_log = Attendence_log.objects.create(id=1,Student_id=1, course_id=1, present='Yes', submitted_by='student1')
 
     def test_update_attendence_log(self):
+        """
+        Test updating an attendence log via the API.
+
+        - Ensures the URL includes the correct id.
+        - Defines data for updating the Attendence_log.
+        - Authenticates with the API using superuser credentials.
+        - Prints original data before the update for debugging.
+        - Sends a PATCH request to update the Attendence_log.
+        - Prints the response content and status code for debugging.
+        - Checks if the Attendence_log is updated in the database.
+        - Prints serializer errors for debugging.
+        - Asserts that the status code is HTTP 200 OK.
+        """
         # Ensure the URL includes the correct id
         url = f'http://127.0.0.1:8000/api/attendnce_log_update/{self.attendence_log.id}'  #url to check
 

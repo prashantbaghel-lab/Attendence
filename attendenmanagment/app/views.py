@@ -20,12 +20,8 @@ logger = logging.getLogger("django")
 
 #creation view for user Attendence_log_view
 class Attendence_log_view(generics.CreateAPIView):
-    #permission_classes=[IsAuthenticated]
-
     """
     API view for creating attendance logs.
-
-    - Only authenticated users are allowed to create attendance logs.
     - Handles the creation of new attendance logs.
 
     Attributes:
@@ -62,26 +58,6 @@ class Attendence_log_view(generics.CreateAPIView):
 
 # view for Course Creation
 class cousre_vieW(generics.CreateAPIView):
-    '''
-    This Course view Create the New Course 
-    '''
-
-    queryset=Courses.objects.all()
-    serializer_class=Courses_serializer
-    logger.info("New Course  Create")
-    def create(self, request, *args, **kwargs):
-        try:
-            # Call the create method from CreateAPIView
-            response = super().create(request, *args, **kwargs)
-            return response
-        except Exception as e:
-            return Response(
-                {"error": str(e)},
-                status=status.HTTP_400_BAD_REQUEST
-            )
-    
-#view for User Creation
-class users_view(generics.CreateAPIView):
     """
     API view for creating new courses.
 
@@ -91,9 +67,9 @@ class users_view(generics.CreateAPIView):
         queryset (QuerySet): Includes all objects from the Courses model.
         serializer_class (Serializer): Serializer class for the Courses model.
     """
-    queryset=Users.objects.all()
-    serializer_class=User_serializer
-    logger.info("New User Create")
+    queryset=Courses.objects.all()
+    serializer_class=Courses_serializer
+    logger.info("New Course  Create")
     def create(self, request, *args, **kwargs):
         """
         Create a new course.
@@ -118,16 +94,75 @@ class users_view(generics.CreateAPIView):
                 {"error": str(e)},
                 status=status.HTTP_400_BAD_REQUEST
             )
+    
+#view for User Creation
+class users_view(generics.CreateAPIView):
+    """
+    API view for creating new users.
+
+    - Handles the creation of new users.
+
+    Attributes:
+        queryset (QuerySet): Includes all objects from the Courses users.
+        serializer_class (Serializer): Serializer class for the Courses users.
+    """
+    queryset=Users.objects.all()
+    serializer_class=User_serializer
+    logger.info("New User Create")
+    def create(self, request, *args, **kwargs):
+        """
+        Create a new user.
+
+        Args:
+            request (HttpRequest): The HTTP request object.
+            *args: Variable length argument list.
+            **kwargs: Arbitrary keyword arguments.
+
+        Returns:
+            Response: JSON response indicating success or failure.
+
+        Raises:
+            Exception: If an error occurs during the creation process.
+        """
+        try:
+            # Call the create method from CreateAPIView
+            response = super().create(request, *args, **kwargs)
+            return response
+        except Exception as e:
+            return Response(
+                {"error": str(e)},
+                status=status.HTTP_400_BAD_REQUEST
+            )
 
 #view for Departments Creation
 class department_view(generics.CreateAPIView):
-    '''
-    This Department view Create the New Department 
-    '''
+    """
+    API view for creating new departments.
+
+    - Handles the creation of new departments.
+
+    Attributes:
+        queryset (QuerySet): Includes all objects from the Departments model.
+        serializer_class (Serializer): Serializer class for the Departments model.
+    """
     queryset=Departments.objects.all()
     serializer_class=Departments_serializer
     logger.info("New Department Create")
     def create(self, request, *args, **kwargs):
+        """
+        Create a new department.
+
+        Args:
+            request (HttpRequest): The HTTP request object.
+            *args: Variable length argument list.
+            **kwargs: Arbitrary keyword arguments.
+
+        Returns:
+            Response: JSON response indicating success or failure.
+
+        Raises:
+            Exception: If an error occurs during the creation process.
+        """
         try:
             # Call the create method from CreateAPIView
             response = super().create(request, *args, **kwargs)
@@ -141,13 +176,13 @@ class department_view(generics.CreateAPIView):
 #view for Student Creation      
 class Student_view(generics.CreateAPIView):
     """
-    API view for creating new departments.
+    API view for creating new Students.
 
-    - Handles the creation of new departments.
+    - Handles the creation of new Students.
 
     Attributes:
-        queryset (QuerySet): Includes all objects from the Departments model.
-        serializer_class (Serializer): Serializer class for the Departments model.
+        queryset (QuerySet): Includes all objects from the Students model.
+        serializer_class (Serializer): Serializer class for the Students model.
     """
 
     queryset=Student.objects.all()
@@ -155,7 +190,7 @@ class Student_view(generics.CreateAPIView):
     logger.info("New Student create")
     def create(self, request, *args, **kwargs):
         """
-        Create a new department.
+        Create a new Student.
 
         Args:
             request (HttpRequest): The HTTP request object.
