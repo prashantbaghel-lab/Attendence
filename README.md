@@ -22,5 +22,8 @@ To run this project the command which uses:
    
 6)now we can test the endpoint in Postman
 
+7)To Run the test case  command:
+  a) python manage.py test
+
    
 
